@@ -1,0 +1,2 @@
+SET, PATHDATA,D:/Modelos/BaseDadosGT/BaseDados/
+RUN, generate_renewables_hourly
