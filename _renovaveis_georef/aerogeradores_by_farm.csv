@@ -1,0 +1,1632 @@
+uf,num,nome_eol,n_turbines,unit_power_MW,hub_height_m,rotor_diameter_m,total_height_m,total_MW,operacao,heterogeneous_hub
+BA,030739,Caititu,12,1.9,80.0,82.5,121.2,22.2,Sim,False
+RN,030512,Dreen Boa Vista,7,2.0,95.0,100.0,145.0,14.0,Sim,False
+RN,030497,Renascença V,15,2.0,95.0,100.0,145.0,30.0,Sim,False
+RN,030864,SM,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+CE,030295,Colônia,9,2.1,96.2,95.0,143.7,18.9,Sim,False
+PB,029086,Coelhos I,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+RS,030756,Cerro Chato VI,12,2.0,97.2,100.0,147.2,24.0,Sim,False
+CE,028631,Praia Formosa,50,2.1,80.0,88.0,124.0,105.0,Sim,False
+RN,030301,Morro dos Ventos I,18,1.6,80.0,82.0,121.0,28.8,Sim,False
+SC,029051,Púlpito,20,1.5,100.0,77.0,138.5,30.0,Sim,False
+CE,030332,Faísa III,12,2.1,90.0,95.0,137.5,25.2,Sim,False
+RN,030672,Costa Branca,9,2.3,80.0,101.0,130.5,20.7,Sim,False
+SC,028793,Água Doce,15,0.6,64.6,44.0,86.6,9.0,Sim,False
+CE,028887,Bons Ventos,24,2.1,77.5,88.0,121.5,50.0,Sim,False
+RN,030498,Asa Branca IV,20,1.6,80.0,82.5,121.2,32.0,Sim,False
+RS,030894,Índios 3,10,2.3,108.0,92.0,154.0,23.0,Sim,False
+SC,029052,Aquibatã,20,1.5,100.0,77.0,138.5,30.0,Sim,False
+BA,031344,Caetité A,14,1.7,80.0,103.0,131.5,23.8,Sim,False
+BA,030328,Guanambi,13,1.6,80.0,82.5,121.2,20.8,Sim,False
+RS,031559,Verace 26,8,1.8,80.0,100.0,130.0,14.32,Sim,False
+BA,032523,Delfina VI,15,2.0,80.0,110.0,135.0,30.0,Sim,False
+RN,030567,União dos Ventos 6,8,1.6,80.0,100.0,130.0,12.8,Sim,False
+RS,030469,REB Cassino I,11,2.0,78.0,97.0,126.5,22.0,Sim,False
+CE,030911,São Jorge,12,2.0,78.0,97.0,126.5,24.0,Sim,False
+RN,030281,Mangue Seco 3,13,2.0,108.4,82.0,149.4,26.0,Sim,False
+RN,030898,Terral,10,3.0,120.0,116.0,178.0,30.0,Sim,False
+RN,030339,Miassaba 3,41,1.7,80.0,86.0,123.0,68.47,Sim,False
+RS,030767,Chuí I,12,2.0,78.0,97.0,126.5,24.0,Sim,False
+RN,030515,Renascença I,15,2.0,95.0,100.0,145.0,30.0,Sim,False
+RN,030516,Renascença II,15,2.0,95.0,100.0,145.0,30.0,Sim,False
+RN,030874,Riachão IV,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+PB,029075,Vitória,3,1.5,85.0,77.0,123.5,4.5,Sim,False
+BA,030448,Caetité 3,15,2.0,78.0,90.0,123.0,30.0,Sim,False
+RN,030416,Rei dos Ventos 1,35,1.7,80.0,86.0,123.0,58.45,Sim,False
+SE,030296,Barra dos Coqueiros,23,1.5,100.0,82.9,141.4,34.5,Sim,False
+CE,028174,Beberibe,32,0.8,75.0,48.0,99.0,25.6,Sim,False
+CE,030924,Santa Catarina,9,2.1,120.0,110.0,153.7,18.9,Sim,False
+BA,030731,Teiu,9,1.9,80.0,82.5,121.2,16.65,Sim,False
+BA,035229,Serra do Vento,9,3.5,84.0,132.0,150.0,31.18,Sim,False
+BA,033634,Umburanas 17,9,2.5,90.0,116.0,148.0,22.5,Sim,False
+BA,032524,Delfina VII,15,2.0,80.0,110.0,135.0,30.0,Sim,False
+BA,031424,Vaqueta,8,3.0,75.0,110.0,130.0,23.4,Sim,True
+CE,040881,Serrote IV,4,4.2,125.0,150.0,200.0,16.8,Não,False
+BA,032106,Juazeiro,7,2.7,89.0,122.0,150.0,18.9,Sim,False
+RS,031509,Pontal 2A,8,2.7,89.0,122.0,150.0,21.6,Sim,False
+BA,030753,Tamanduá Mirim,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+BA,030490,Da Prata,13,1.7,80.0,82.5,122.0,21.84,Sim,False
+RN,030563,União dos Ventos 2,14,1.6,80.0,100.0,130.0,22.4,Sim,False
+RN,030290,Mangue Seco 5,13,2.0,108.4,82.0,149.4,26.0,Sim,False
+RN,030284,Mangue Seco 2,13,2.0,108.4,82.0,149.4,26.0,Sim,False
+RN,030615,Serra de Santana III,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+BA,030807,Emiliana,12,2.4,99.5,108.0,153.5,28.2,Sim,False
+PB,029092,Mataraca,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+BA,032358,Delfina II,14,2.0,80.0,110.0,135.0,28.0,Sim,False
+BA,032091,Angelim,8,2.7,89.0,122.0,150.0,21.6,Sim,False
+CE,031482,Itarema V,7,3.0,100.0,125.0,162.5,21.0,Sim,False
+BA,031519,Casa Nova II,14,2.3,98.0,92.0,144.0,32.9,Sim,False
+CE,028788,Canoa Quebrada,28,2.1,80.0,88.0,124.0,57.0,Sim,False
+BA,030456,São Pedro do Lago,13,2.4,80.0,100.0,130.0,31.46,Sim,False
+PB,029090,Coelhos II,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+RN,030873,Riachão VII,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RN,030285,Mangue Seco 1,13,2.0,108.4,82.0,149.4,26.0,Sim,False
+BA,030455,Sete Gamelerias,15,2.0,80.0,100.0,130.0,30.0,Sim,False
+RN,031412,Ventos de São Martinho,7,2.1,93.0,114.0,150.0,14.7,Sim,False
+RS,030468,REB Cassino III,11,2.0,78.0,97.0,126.5,22.0,Sim,False
+CE,030282,Coqueiros,18,1.5,85.0,77.0,123.5,27.0,Sim,False
+RS,030790,Chuí II,11,2.0,78.0,97.0,126.5,22.0,Sim,False
+CE,028649,Canoa Quebrada,5,2.1,80.0,88.0,124.0,10.5,Sim,False
+SC,029069,Amparo,15,1.5,100.0,77.0,138.5,22.5,Sim,False
+RJ,028730,Gargaú,17,1.6,70.0,82.0,111.0,28.05,Sim,False
+RN,036979,Vila Piauí III,9,4.2,120.0,150.0,195.0,37.8,Sim,False
+PI,030830,Porto Salgado,10,2.0,90.0,97.0,138.5,20.0,Sim,False
+RN,032355,Paraíso dos Ventos do Nordeste,13,2.1,120.0,110.0,175.0,27.3,Sim,False
+RS,030844,Minuano I,11,2.0,100.0,90.0,145.0,22.0,Sim,False
+BA,031406,Taboquinha,8,2.7,89.0,122.0,150.0,21.6,Sim,False
+BA,030732,Angical,7,1.9,80.0,82.5,121.2,12.95,Sim,False
+PI,033020,Ventos de Santa Ângela 16,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+PE,030789,Tacaicó,8,2.4,80.0,100.0,130.0,18.8,Sim,False
+CE,030369,Quixaba,17,1.5,85.0,77.0,123.5,25.5,Sim,False
+RN,030872,Riachão VI,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RS,028811,Sangradouro,25,2.0,98.0,70.0,133.0,50.0,Sim,False
+BA,030801,Joana,12,2.4,80.0,100.0,130.0,28.2,Sim,False
+RN,030351,Eurus VI,4,2.0,98.0,82.0,139.0,8.0,Sim,False
+CE,028441,Volta do Rio,28,1.5,65.0,70.0,100.0,42.0,Sim,False
+CE,028699,Icaraizinho,26,2.1,80.0,88.0,124.0,54.6,Sim,False
+RS,030745,Verace I,10,2.0,100.0,90.0,145.0,20.0,Sim,False
+CE,032010,Estrela,11,2.7,119.0,122.0,180.0,29.7,Sim,False
+RN,030889,Morro dos Ventos II,18,1.6,80.0,100.0,130.0,29.16,Sim,False
+BA,037209,Casa Nova A,18,1.5,100.0,82.0,141.0,27.0,Sim,False
+BA,030778,Dourados,17,1.7,80.0,82.5,122.0,28.56,Sim,False
+BA,031523,Caetité C,5,1.7,80.0,103.0,131.5,8.5,Sim,False
+RS,031561,Verace 24,11,1.8,80.0,100.0,130.0,19.69,Sim,False
+CE,030336,Embuaca,13,2.1,80.0,88.0,124.0,27.3,Sim,False
+BA,030319,Pajeú do Vento,16,1.6,80.0,82.5,121.2,25.6,Sim,False
+CE,031866,Santo Inácio IV,11,2.1,120.0,110.0,175.0,23.1,Sim,False
+RN,030311,Morro dos Ventos IV,18,1.6,80.0,82.0,121.0,28.8,Sim,False
+RN,030501,Cabeço Preto IV,11,1.8,80.0,100.0,130.0,19.8,Sim,False
+RN,030300,Morro dos Ventos VI,18,1.6,80.0,82.0,121.0,28.8,Sim,False
+RN,030622,Arizona 1,14,2.0,78.0,90.0,123.0,28.0,Sim,False
+CE,028770,Enacel,15,2.1,80.0,88.0,124.0,31.5,Sim,False
+BA,030779,Ametista,17,1.7,80.0,82.5,121.2,28.56,Sim,False
+CE,032013,Santa Mônica I,7,2.7,119.0,122.0,180.0,18.9,Sim,False
+PB,029041,Millennium,13,0.8,74.8,48.0,98.8,10.4,Sim,False
+RN,031372,Ventos de Santo Dimas,14,2.1,93.0,114.0,150.0,29.4,Sim,False
+BA,031337,Maniçoba,15,2.0,78.0,97.0,126.5,30.0,Não,False
+BA,030322,Planaltina,17,1.6,80.0,82.5,121.2,27.2,Sim,False
+PE,031422,Ventos de Santa Brígida VII,16,1.7,80.0,100.0,130.0,27.2,Sim,False
+RN,030340,Areia Branca,13,2.1,89.0,95.0,136.5,27.3,Sim,True
+RS,030449,Osório 3,13,2.3,108.0,82.0,149.0,29.9,Sim,False
+RN,028424,RN 15 - Rio do Fogo,62,0.8,75.0,48.0,99.0,49.3,Sim,False
+BA,030752,Corrupião,15,1.9,80.0,82.5,121.2,27.75,Sim,False
+BA,031524,Casa Nova III,12,2.3,98.0,92.0,144.0,28.2,Sim,False
+PE,031365,Ventos de Santa Brígida I,8,1.7,80.0,100.0,130.0,13.6,Sim,False
+RN,030625,Serra de Santana I,10,2.0,78.0,97.0,126.5,20.0,Sim,False
+RS,030349,Cerro Chato II,15,2.0,108.0,82.0,149.4,30.0,Sim,False
+RS,030334,Fazenda Rosário 3,7,2.3,98.0,82.0,139.0,16.1,Sim,False
+BA,030324,Pindaí,15,1.6,80.0,82.5,121.2,24.0,Sim,False
+BA,031402,Abil,8,3.0,75.0,109.8,129.9,23.7,Sim,True
+RS,031578,Verace 28,7,1.8,80.0,100.0,130.0,12.53,Sim,False
+CE,032011,Cacimbas 1,7,2.7,119.0,122.0,180.0,18.9,Sim,False
+BA,031740,Umburanas 02,10,2.5,90.0,116.0,148.0,25.0,Sim,False
+RN,030511,Calango 1,15,2.0,78.0,87.0,121.5,30.0,Sim,False
+BA,030768,Maron,18,1.7,80.0,100.0,130.0,30.24,Sim,False
+RN,030566,União dos Ventos 5,15,1.6,80.0,100.0,130.0,24.0,Sim,False
+RN,030503,Eurus I,19,1.6,80.0,82.0,120.0,30.4,Sim,False
+RN,033647,São Miguel III,10,2.1,120.0,110.0,175.0,21.0,Sim,False
+RN,030609,Serra de Santana II,15,2.0,90.0,97.0,138.5,30.0,Sim,False
+RS,030760,Chuí V,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+CE,031484,Itarema III,5,3.0,120.0,116.0,178.0,15.0,Sim,False
+RS,030478,Fazenda Rosário 2,10,2.3,98.0,82.0,139.0,23.0,Sim,False
+SC,029062,Bom Jardim,20,1.5,100.0,77.0,138.5,30.0,Sim,False
+PE,031353,Ventos de Santa Brígida VI,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+CE,040880,Serrote III,5,4.2,125.0,150.0,200.0,21.0,Sim,False
+RS,030842,Corredor do Senandes II,8,2.7,89.0,122.0,150.0,21.6,Sim,False
+RN,030569,União dos Ventos 8,9,1.6,80.0,100.0,130.0,14.4,Sim,False
+CE,030925,Ventos de Horizonte,8,2.1,120.0,110.0,153.7,16.8,Sim,False
+BA,032102,Imburana Macho,6,2.7,89.0,122.0,150.0,16.2,Não,False
+CE,028857,Taíba Águia,11,2.1,96.2,95.0,143.7,23.1,Sim,False
+RS,030461,Atlântica IV,10,3.0,120.0,116.0,178.0,30.0,Sim,False
+BA,031338,Damascena,15,2.0,90.0,97.0,138.5,30.0,Sim,False
+PB,029087,Coelhos III,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+RN,030292,Santa Clara I,15,2.0,98.0,82.0,139.0,30.0,Sim,False
+RN,030562,União dos Ventos 1,14,1.6,80.0,100.0,130.0,22.4,Sim,False
+CE,030912,São Cristóvão,13,2.0,78.0,97.0,126.5,26.0,Sim,False
+RN,030787,Modelo I,13,2.4,99.5,108.0,153.5,30.55,Sim,False
+RS,031487,Coxilha Seca,15,2.0,80.0,114.0,137.0,30.0,Sim,False
+PI,028731,Pedra do Sal,20,0.9,77.0,44.0,99.0,18.0,Sim,False
+BA,030738,Coqueirinho,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+PB,029088,Atlântica,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+BA,030546,Seraíma,18,1.7,80.0,82.5,122.0,30.24,Sim,False
+RN,033666,Boa Esperança I,14,2.2,95.0,110.0,150.0,30.8,Sim,False
+BA,031742,Umburanas 10,8,2.5,90.0,116.0,148.0,20.0,Sim,False
+RS,028855,Palmares,4,2.3,98.0,82.0,139.0,9.2,Sim,False
+BA,033648,Ventos da Santa Dulce,14,2.0,80.0,110.0,135.0,28.0,Sim,False
+CE,031814,Itarema IX,10,3.0,120.0,125.0,182.5,30.0,Sim,False
+BA,030321,Igaporã,19,1.6,80.0,82.5,121.2,30.4,Sim,False
+RN,030545,Calango 3,15,2.0,78.0,90.0,123.0,30.0,Sim,False
+RN,032356,Potiguar,13,2.1,120.0,110.0,175.0,27.3,Sim,False
+BA,031403,Tabua,5,3.0,75.0,109.8,129.9,15.0,Sim,False
+BA,031407,Folha de Serra,7,3.0,75.0,122.0,136.0,21.0,Sim,False
+RN,030570,União dos Ventos 9,7,1.6,80.0,100.0,130.0,11.2,Sim,False
+BA,032521,Delfina III,14,2.0,80.0,110.0,135.0,28.0,Sim,False
+BA,030726,Primavera,13,2.3,80.0,84.0,122.0,29.9,Sim,False
+BA,033635,Umburanas 19,10,2.5,90.0,116.0,148.0,25.0,Sim,False
+RN,030565,União dos Ventos 4,7,1.6,80.0,100.0,130.0,11.2,Sim,False
+BA,030751,Inhambu,17,1.9,80.0,82.5,121.2,31.45,Sim,False
+BA,032357,Delfina I,14,2.0,80.0,110.0,135.0,28.0,Sim,False
+RN,030564,União dos Ventos 3,14,1.6,80.0,100.0,130.0,22.4,Sim,False
+CE,035197,Garrote,11,2.1,120.0,110.0,175.0,23.1,Sim,False
+BA,032359,Delfina V,14,2.0,80.0,110.0,135.0,28.0,Sim,False
+PI,030827,Porto das Barcas,10,2.0,90.0,97.0,138.5,20.0,Sim,False
+PB,029085,Albatroz,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+BA,030306,Seabra,18,1.7,80.0,86.0,123.0,30.6,Sim,False
+BA,031563,Ventos de Guarás I,15,2.0,76.5,97.0,125.5,30.0,Sim,False
+CE,031483,Itarema II,9,3.0,100.0,116.0,178.0,27.0,Sim,True
+CE,030279,Buriti,20,1.5,85.0,77.0,123.5,30.0,Sim,False
+CE,028440,Praia do Morgado,19,1.6,85.0,77.0,123.5,30.02,Sim,False
+PE,029015,Mandacaru,3,1.6,70.0,82.0,111.0,4.95,Sim,False
+RS,028810,Osório,25,2.0,98.0,70.0,133.0,50.0,Sim,False
+RS,031517,Chuí 09,10,1.8,80.0,100.0,130.0,17.9,Sim,False
+RS,031558,Verace 31,5,1.8,80.0,100.0,130.0,8.95,Sim,False
+RS,031539,Verace 35,13,1.8,80.0,100.0,130.0,39.53,Sim,True
+RN,030537,Calango 4,15,2.0,78.0,87.0,121.5,30.0,Sim,False
+BA,030341,Rio Verde,19,1.6,80.0,82.5,121.2,30.4,Sim,False
+RN,030513,Asa Branca VII,20,1.6,80.0,82.5,121.2,32.0,Sim,False
+CE,030309,Faísa V,14,2.1,90.0,95.0,137.5,29.4,Sim,False
+RN,030302,Morro dos Ventos IX,19,1.6,80.0,82.0,120.0,30.0,Sim,False
+RN,030551,Renascença IV,15,2.0,95.0,100.0,145.0,30.0,Sim,False
+CE,030352,Faísa I,14,2.1,90.0,95.0,137.5,29.4,Sim,False
+RS,031600,Verace 27,9,1.8,80.0,100.0,130.0,16.11,Sim,False
+RS,030457,Atlântica I,10,3.0,120.0,116.0,178.0,30.0,Sim,False
+RN,030832,Carcará I,10,3.0,120.0,116.0,178.0,30.0,Sim,False
+RS,030462,Atlântica II,10,3.0,120.0,116.0,178.0,30.0,Sim,False
+RN,030389,Mar e Terra,11,2.1,93.0,88.0,137.0,23.1,Sim,True
+RN,030527,Renascença III,15,2.0,95.0,100.0,145.0,30.0,Sim,False
+RS,030750,Ibirapuitã I,12,2.1,80.0,110.0,135.0,25.2,Sim,False
+CE,030691,Ilha Grande,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RN,030307,Santa Clara IV,15,2.0,98.0,82.0,139.0,30.0,Sim,False
+PE,031540,Serra das Vacas II,13,1.7,80.0,103.0,131.5,22.3,Sim,False
+RS,030840,Corredor do Senandes IV,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RN,033644,São Miguel I,10,2.1,120.0,110.0,175.0,21.0,Sim,False
+BA,031754,Umburanas 15,8,2.5,90.0,116.0,148.0,20.0,Sim,False
+BA,035266,Zeus II,14,2.1,80.0,114.0,137.0,29.4,Sim,False
+BA,030776,Pilões,18,1.7,80.0,82.5,122.0,30.24,Sim,False
+CE,031815,Itarema VI,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+RN,030834,Santa Helena,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RS,030381,Sangradouro 2,13,2.3,108.0,82.0,149.0,29.9,Sim,False
+RS,030791,Minuano II,12,2.0,100.0,90.0,145.0,24.0,Sim,False
+RS,030286,Osório 2,12,2.3,108.0,82.0,149.0,27.6,Sim,False
+PI,033005,Ventos de Santa Ângela 01,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+CE,031485,Itarema I,9,3.0,100.0,116.0,158.0,27.0,Sim,False
+BA,030437,Caetité 2,15,2.0,78.0,90.0,123.0,30.0,Sim,False
+RS,030734,Índios 2,13,2.3,108.0,92.0,154.0,29.9,Sim,False
+PE,031537,Serra das Vacas I,14,1.7,80.0,103.0,131.5,23.92,Sim,False
+BA,031741,Umburanas 03,8,2.5,90.0,116.0,148.0,20.0,Sim,False
+RS,030754,Chuí IV,11,2.0,78.0,97.0,126.5,22.0,Sim,False
+BA,030443,Pedra Branca,12,2.0,80.0,90.0,125.0,30.0,Sim,False
+RS,028712,Elebrás Cidreira 1,31,2.3,98.0,82.0,139.0,70.0,Sim,False
+RN,033643,São Bento do Norte III,11,2.1,120.0,110.0,175.0,23.1,Sim,False
+RN,030519,Calango 2,15,2.0,78.0,87.0,121.5,30.0,Sim,False
+RN,030536,Dreen São Bento do Norte,15,2.0,120.0,110.0,175.0,30.0,,False
+PE,030806,Pedra do Gerônimo,13,2.4,80.0,100.0,130.0,30.55,Sim,False
+CE,031817,Itarema VIII,7,3.0,100.0,125.0,162.5,21.0,Sim,False
+BA,030318,Nossa Senhora da Conceição,18,1.6,80.0,82.5,121.2,28.8,Sim,False
+RN,030308,Santa Clara II,15,2.0,98.0,82.0,139.0,30.0,Sim,False
+RS,030477,REB Cassino II,10,2.0,78.0,97.0,126.5,20.0,Sim,False
+SC,029055,Rio do Ouro,20,1.5,100.0,77.0,138.5,30.0,Sim,False
+RN,030788,Modelo II,11,2.4,99.5,108.0,153.5,25.85,Sim,False
+CE,030372,Icaraí I,13,2.1,96.2,95.0,147.5,27.3,Sim,False
+PI,033619,Aura Lagoa do Barro 3,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+CE,028706,Paracuru,12,2.1,80.0,88.0,124.0,25.2,Sim,False
+RN,035158,Afonso Bezerra I,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+RN,038143,Vila Sergipe II,9,4.2,120.0,150.0,195.0,37.8,Sim,False
+RN,030508,Asa Branca VIII,20,1.6,80.0,82.5,121.2,32.0,Sim,False
+PE,030805,Pau Ferro,13,2.4,80.0,100.0,130.0,30.55,Sim,False
+RN,030417,Rei dos Ventos 3,36,1.7,80.0,86.0,123.0,60.12,Sim,False
+RS,030348,Cerro Chato I,15,2.0,108.0,82.0,149.4,30.0,Sim,False
+CE,031611,Bons Ventos Cacimbas 7,8,2.1,120.0,110.0,175.0,16.8,Sim,False
+SC,029070,Cruz Alta,20,1.5,100.0,77.0,138.5,30.0,Sim,False
+PE,028481,Pirauá,3,1.6,70.0,82.0,111.0,4.95,Sim,False
+RN,032354,Esperança do Nordeste,13,2.1,120.0,110.0,175.0,27.3,Sim,False
+RN,030507,Asa Branca V,20,1.6,80.0,82.5,121.2,32.0,Sim,False
+CE,030331,Faísa II,13,2.1,90.0,95.0,137.5,27.3,Sim,False
+RN,030378,Santa Clara V,15,2.0,98.0,82.0,139.0,30.0,Sim,False
+CE,030663,Guajirú,13,2.3,80.0,101.0,130.5,30.0,Sim,False
+RN,030310,Morro dos Ventos III,18,1.6,80.0,82.0,121.0,28.8,Sim,False
+CE,030299,Dunas de Paracuru,21,2.0,78.0,87.0,121.5,42.0,Sim,False
+RS,030350,Cerro Chato III,15,2.0,108.0,82.0,149.4,30.0,Sim,False
+RN,030121,Aratuá I,9,1.6,80.0,82.5,121.2,14.4,Sim,False
+BA,030608,Pedra do Reino III,6,3.0,80.0,90.0,125.0,18.0,Sim,False
+BA,031342,Caetité B,13,1.7,80.0,103.0,131.5,22.1,Sim,False
+CE,028652,Lagoa do Mato,2,1.6,80.0,88.0,124.0,3.23,Sim,False
+RN,028444,Alegria I,31,1.6,70.0,82.0,111.0,51.15,Sim,False
+RN,030552,Calango 5,15,2.0,78.0,87.0,121.5,30.0,Sim,False
+CE,030695,Ribeirão,8,2.7,89.0,122.0,150.0,21.6,Sim,False
+CE,030670,Fleixeiras I,13,2.3,80.0,101.0,130.5,30.0,Sim,False
+RN,030568,União dos Ventos 7,9,1.6,80.0,100.0,130.0,14.4,Sim,False
+RS,030819,Corredor do Senandes III,10,2.7,89.0,122.0,150.0,27.0,Sim,False
+CE,040883,Serrote VI,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+BA,030727,Cristal,13,2.3,80.0,101.0,130.5,29.9,Sim,False
+CE,031621,Bons Ventos Cacimbas 4,5,2.1,120.0,110.0,175.0,10.5,Sim,False
+RN,030671,Pedra Preta,9,2.3,80.0,101.0,130.5,20.7,Sim,False
+RN,033642,São Bento do Norte II,11,2.1,120.0,110.0,175.0,23.1,Sim,False
+RN,035159,Afonso Bezerra II,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+RN,030870,Riachão I,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RN,030549,Dreen Olho D Água,15,2.0,120.0,110.0,175.0,30.0,Sim,False
+PI,030838,Delta do Parnaíba,15,2.0,90.0,97.0,138.5,30.0,Sim,False
+RS,031601,Verace 34,8,1.8,80.0,100.0,130.0,14.32,Sim,False
+RN,030499,Eurus II,15,2.0,80.0,100.0,130.0,30.0,Sim,False
+CE,030916,Santo Antônio de Pádua,7,2.0,78.0,97.0,126.5,14.0,Sim,False
+BA,032083,Cristalândia III,15,2.0,80.0,110.0,135.0,30.0,Sim,False
+RS,031602,Verace 30,10,1.8,80.0,100.0,130.0,17.9,Sim,False
+PI,033016,Ventos de Santa Ângela 12,10,3.0,120.0,125.0,182.5,30.0,Sim,False
+PI,033022,Ventos de Santa Angela 18,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+RN,030571,União dos Ventos 10,9,1.6,80.0,100.0,130.0,14.4,Sim,False
+CE,030662,Trairí,11,2.3,80.0,101.0,130.5,25.39,Sim,False
+PR,027908,de Palmas,5,0.5,44.0,40.3,64.2,2.5,Sim,False
+RN,031427,Santa Mônica,14,2.1,93.0,114.0,150.0,29.4,Sim,False
+BA,033630,Campo Largo V,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RS,031541,Verace 25,4,1.8,80.0,100.0,130.0,7.16,Sim,False
+RN,030828,Ventos de Santo Uriel,6,2.7,89.0,122.0,150.0,16.2,Sim,False
+PB,035240,Ventos de Arapuá 1,7,3.5,84.0,132.0,150.0,24.25,Sim,False
+BA,030725,São Judas,13,2.3,80.0,84.0,122.0,29.9,Sim,False
+MA,040574,Delta 8 I,13,2.7,90.0,116.0,148.0,35.1,Sim,False
+RS,031557,Verace 29,10,1.8,80.0,100.0,130.0,17.9,Sim,False
+BA,031404,Angico,3,2.7,89.0,122.0,150.0,8.1,Sim,False
+RN,030504,Eurus III,19,1.6,80.0,82.0,121.0,30.0,Sim,False
+RN,030897,Carcará II,10,3.0,120.0,116.0,178.0,30.0,Sim,False
+BA,030342,Guirapá,18,1.6,80.0,82.5,121.2,28.8,Sim,False
+SC,029065,Campo Belo,7,1.5,85.0,77.0,123.5,10.5,Sim,False
+BA,030283,Macaúbas,21,1.7,80.0,86.0,123.0,35.07,Sim,False
+BA,034633,Campo Largo II,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RN,030502,Farol,10,2.0,95.0,100.0,145.0,20.0,Sim,False
+BA,034643,Campo Largo XVIII,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+BA,031408,Jacarandá do Cerrado,7,3.0,75.0,100.0,125.0,21.0,Sim,False
+BA,034613,Campo Largo I,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+CE,030373,Taíba Andorinha,7,2.1,96.2,95.0,143.7,14.7,Sim,False
+CE,030918,Ubatuba,6,2.1,120.0,110.0,153.7,12.6,Sim,False
+RS,028864,Índios,25,2.0,98.0,70.0,133.0,50.0,Sim,False
+CE,030697,Boca do Córrego,9,2.7,89.0,122.0,150.0,24.3,Sim,False
+CE,030289,Icaraí,8,2.1,80.0,88.0,124.0,16.8,Sim,False
+BA,034637,Campo Largo XVI,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+BA,031418,Acácia,6,2.7,89.0,122.0,150.0,16.2,Sim,False
+CE,028724,Praias de Parajuru,19,1.5,85.0,77.0,123.5,28.8,Sim,False
+SC,029056,Salto,20,1.5,100.0,77.0,138.5,30.0,Sim,False
+SC,028491,Eólica de Bom Jardim,1,0.6,45.0,40.0,65.0,0.6,Sim,False
+RN,037076,São Fernando 3,7,3.5,120.0,132.0,186.0,24.25,Sim,False
+RN,030505,Asa Branca I,10,2.7,89.0,122.0,150.0,27.0,Sim,False
+RN,030333,Cabeço Preto,11,1.8,80.0,100.0,130.0,19.8,Sim,False
+BA,030316,Candiba,6,1.6,80.0,82.5,121.2,9.6,Sim,False
+RS,030901,Pontal 3B,10,2.7,89.0,122.0,150.0,27.0,Sim,False
+RS,030480,Atlântica V,10,3.0,120.0,116.0,178.0,30.0,Sim,False
+BA,031121,Dois Riachos,15,2.0,90.0,97.0,138.5,30.0,Sim,False
+CE,028858,Taíba Albatroz,8,2.1,80.0,88.0,124.0,16.5,Sim,False
+BA,030320,Alvorada,5,1.6,80.0,82.5,121.2,8.0,Sim,False
+PB,034644,Chafariz 4,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+BA,031832,Umburanas 08,10,2.5,90.0,116.0,148.0,25.0,Sim,False
+PB,029084,Camurim,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+BA,030314,Serra do Salto,12,1.6,80.0,82.5,121.2,19.2,Sim,False
+RN,030871,Riachão II,10,2.7,89.0,122.0,150.0,27.0,Sim,False
+RN,030660,Juremas,7,2.3,98.0,82.0,139.0,16.1,Sim,False
+RS,030343,Fazenda Rosário,4,2.3,98.0,82.0,139.0,9.2,Sim,False
+BA,030288,Pedra do Reino,10,3.0,80.0,90.0,125.0,30.0,Sim,False
+RN,030520,Asa Branca VI,20,1.6,80.0,82.5,121.2,32.0,Sim,False
+PE,031574,Serra das Vacas IV,13,1.7,80.0,103.0,131.5,22.3,Sim,False
+CE,040884,Serrote VII,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+RN,030304,Santa Clara VI,15,2.0,98.0,82.0,139.0,30.0,Sim,False
+BA,031738,Umburanas 01,10,2.5,90.0,116.0,148.0,25.0,Sim,False
+BA,034717,Ventos de Santa Emília,13,2.1,80.0,114.0,137.0,27.3,Sim,False
+BA,032090,Amescla,5,2.7,90.0,122.0,151.0,13.5,Sim,False
+CE,028630,Foz do Rio Choró,12,2.1,80.0,88.0,124.0,25.2,Sim,False
+CE,030329,Faísa IV,12,2.1,90.0,95.0,137.5,25.2,Sim,False
+PB,029089,Caravela,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+BA,030305,Novo Horizonte,18,1.6,80.0,86.0,123.0,28.8,Sim,False
+PI,033013,Ventos de Santa Angela 09,14,3.1,120.0,125.0,182.5,44.1,Sim,False
+CE,033756,Cataventos Acaraú I,14,2.0,78.0,97.0,126.5,28.0,Sim,False
+PI,033024,Ventos de Santa Angela 20,10,3.0,120.0,125.0,182.5,30.0,Sim,False
+PB,029083,Presidente,6,0.8,74.0,48.0,98.0,4.8,Sim,False
+CE,040882,Serrote V,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+BA,031335,Baraúnas I,14,2.4,98.0,92.0,144.0,32.9,Sim,False
+RN,033645,São Miguel II,10,2.1,120.0,110.0,175.0,21.0,Sim,False
+RN,036981,Ventos de Vila Paraíba I,10,3.5,120.0,132.0,186.0,34.65,Sim,False
+BA,033637,Umburanas 23,6,2.5,90.0,116.0,148.0,15.0,Sim,False
+RN,030661,Macacos,9,2.3,98.0,82.0,139.0,20.7,Sim,False
+RN,033640,São Bento do Norte I,11,2.1,120.0,110.0,175.0,23.1,Sim,False
+CE,030294,Cajucoco,20,1.5,85.0,77.0,123.5,30.0,Sim,False
+PI,033010,Ventos de Santa Angela 06,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+RN,035161,Afonso Bezerra IV,4,4.2,125.0,150.0,200.0,16.8,Sim,False
+PB,035184,Chafariz 6,9,3.5,84.0,132.0,150.0,31.18,Sim,False
+BA,030317,Licínio de Almeida,15,1.6,80.0,82.5,121.2,24.0,Sim,False
+PB,035241,Ventos de Arapuá 2,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+CE,031813,Itarema IV,7,3.0,100.0,125.0,162.5,21.0,Sim,True
+BA,031755,Umburanas 16,10,2.5,90.0,116.0,148.0,25.0,Sim,False
+BA,030976,Caetité 1,15,2.0,78.0,90.0,123.0,30.0,Sim,False
+BA,032522,Delfina IV,4,2.0,80.0,110.0,135.0,8.0,Sim,False
+BA,034777,Pedra do Reino IV,10,2.0,80.0,110.0,135.0,20.0,Sim,False
+PB,034646,Chafariz 5,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+RN,030514,Ventos de São Miguel,15,2.0,95.0,100.0,145.0,30.0,Sim,False
+CE,035219,São Raimundo,11,2.1,120.0,110.0,175.0,23.1,Sim,False
+CE,030656,Mundaú,13,2.3,80.0,101.0,130.5,30.0,Sim,False
+PI,033023,Ventos de Santa Angela 19,10,3.0,120.0,125.0,182.5,30.0,Sim,False
+CE,030920,Goiabeira,11,2.1,120.0,110.0,153.7,23.1,Sim,False
+PI,033025,Ventos de Santa Angela 21,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+RN,035160,Afonso Bezerra III,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+PI,033017,Ventos de Santa Ângela 13,9,3.1,120.0,125.0,182.5,28.35,Sim,False
+PI,033620,Aura Lagoa do Barro 4,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+CE,040885,Serrote VIII,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+BA,030323,Porto Seguro,4,1.6,80.0,82.5,121.2,6.4,Sim,False
+BA,033636,Umburanas 21,9,2.5,90.0,116.0,148.0,22.5,Sim,False
+PE,029011,Xavante,3,1.6,70.0,82.0,111.0,4.95,Sim,False
+PB,034640,Chafariz 2,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+BA,035233,Umburana de Cheiro,9,3.5,84.0,132.0,150.0,31.18,Sim,False
+MA,040572,Delta 7 I,10,2.7,90.0,116.0,148.0,27.0,Sim,False
+RN,030860,Lanchinha,14,2.0,90.0,97.0,139.5,28.0,Sim,False
+BA,031737,Umburanas 05,7,2.5,90.0,116.0,148.0,17.5,Sim,False
+PI,033021,Ventos de Santa Angela 17,15,3.1,120.0,125.0,182.5,47.25,Sim,False
+PB,037958,Chafariz 7,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+RN,036985,Ventos de Vila Paraíba II,10,3.5,120.0,132.0,186.0,34.65,Sim,False
+BA,034636,Campo Largo XV,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+PB,034642,Chafariz 3,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+RN,032215,São Domingos,12,2.1,93.0,114.0,150.0,25.2,Sim,False
+PE,031560,Serra das Vacas III,13,1.7,80.0,103.0,131.5,22.23,Sim,False
+SC,029053,Santo Antônio,2,1.5,100.0,77.0,138.5,3.0,Sim,False
+RN,031697,União dos Ventos 13,9,2.1,120.0,114.0,177.0,18.9,Sim,False
+CE,031627,Bons Ventos Cacimbas 3,7,2.1,120.0,110.0,175.0,14.7,Sim,False
+BA,037103,Ventos de São Januário 21,12,4.2,105.0,150.0,180.0,50.4,Sim,False
+RS,030460,Pontal 2B,7,1.6,80.0,100.0,130.0,11.2,Sim,False
+CE,030926,Pitombeira,13,2.1,120.0,110.0,153.7,27.3,Sim,False
+PI,032367,Ventos de São Virgilio 01,13,2.3,80.0,107.0,133.5,29.9,Sim,False
+PI,033140,Ventos de São Vicente 12,14,2.1,80.0,114.0,136.0,29.4,Sim,False
+BA,032641,Ventos de São Januário 04,7,4.2,105.0,150.0,180.0,29.4,Sim,False
+RN,031887,Aventura I,12,2.4,98.0,92.0,144.0,28.2,Sim,False
+CE,031746,Ventos de Santo Augusto I,8,2.3,80.0,107.0,133.5,18.4,Sim,False
+PB,033664,Lagoa 1,15,2.1,80.0,114.0,194.0,31.5,Sim,False
+PB,033665,Lagoa 2,15,2.1,80.0,114.0,194.0,31.5,Sim,False
+RN,031651,Cabeço Vermelho,13,2.0,95.0,110.0,150.0,26.0,Sim,False
+PI,033143,Ventos de São Vicente 09,14,2.1,80.0,114.0,136.0,29.4,Sim,False
+BA,037104,Ventos de São Januário 22,12,4.2,105.0,150.0,180.0,50.4,Sim,False
+BA,031752,Umburanas 13,8,2.5,90.0,116.0,148.0,20.0,Sim,False
+BA,032467,Serra da Babilônia VII,12,2.4,98.0,92.0,144.0,28.2,Sim,False
+PB,033663,Canoas,15,2.1,80.0,114.0,194.0,31.5,Sim,False
+RN,031071,Campo dos Ventos III,12,2.1,93.0,114.0,150.0,25.2,Sim,False
+PE,031818,Ventos de São Clemente 1,17,1.8,80.0,103.0,131.5,31.36,Sim,False
+BA,032527,Ventos da Bahia III,14,2.2,80.0,110.0,135.0,30.8,Sim,False
+PB,037952,Canoas 3,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+BA,031336,Morro Branco I,14,2.4,98.0,92.0,144.0,32.9,Sim,False
+BA,032093,Barbatimão,6,2.7,89.0,122.0,150.0,16.2,Sim,False
+RS,031610,Verace 36,12,1.8,80.0,100.0,130.0,21.48,Sim,False
+RN,031810,Santana I,15,2.0,80.0,114.0,137.0,30.0,Sim,False
+CE,030595,Vento Formoso,15,1.9,80.0,100.0,130.0,27.51,Sim,False
+RN,031645,União dos Ventos 12,12,2.1,120.0,114.0,177.0,25.2,Sim,False
+PB,034639,Chafariz 1,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+BA,033628,Campo Largo III,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+PI,033136,Ventos de São Vicente 10,14,2.1,80.0,114.0,136.0,29.4,Sim,False
+PI,031275,Ventos de Santa Angelina,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RN,032353,Pedra Rajada II,10,2.0,80.0,110.0,135.0,20.0,Sim,False
+BA,034742,Ventos de Santa Aurora,13,2.1,80.0,114.0,137.0,27.3,Sim,False
+PI,033018,Ventos de Santa Angela 14,14,3.0,120.0,125.0,182.5,42.6,Sim,False
+RN,030293,Santa Clara III,15,2.0,98.0,82.0,139.0,30.0,Sim,False
+BA,033532,Ventos de São Januário 13,10,4.2,105.0,150.0,180.0,42.0,Sim,False
+MA,040573,Delta 7 II,13,2.7,90.0,116.0,148.0,35.1,Sim,False
+PI,033009,Ventos de Santa Angela 05,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+BA,033639,Umburanas 25,7,2.5,90.0,116.0,148.0,17.5,Sim,False
+PB,038029,Lagoa 3,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+CE,040878,Serrote I,6,4.2,125.0,150.0,200.0,25.2,Sim,False
+BA,030315,Ilhéus,7,1.6,80.0,82.5,121.2,11.2,Sim,False
+RN,031642,União dos Ventos 15,12,2.6,120.0,114.0,177.0,31.5,Sim,False
+RN,031652,União dos Ventos 16,11,2.6,120.0,114.0,177.0,28.88,Sim,False
+CE,032012,Ouro Verde,11,2.7,119.0,122.0,180.0,29.7,Sim,False
+RN,035166,Angicos II,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+CE,031816,Itarema VII,7,3.0,100.0,125.0,162.5,21.0,Sim,True
+CE,035217,Santo Inácio III,14,2.1,120.0,110.0,175.0,29.4,Sim,False
+CE,030929,Jandaia,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+BA,035234,Ventos da Bahia XXIII,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+PI,031767,Ventos de Santo Augusto VIII,8,2.3,80.0,107.0,133.5,18.4,Sim,False
+BA,033627,Laranjeiras IX,10,2.5,90.0,116.0,148.0,25.0,Sim,False
+CE,030930,Nossa Senhora de Fátima,10,3.0,120.0,125.0,182.5,30.0,Sim,False
+CE,040879,Serrote II,6,4.2,125.0,150.0,200.0,25.2,Sim,False
+RN,031801,Aroeira,14,2.4,98.4,92.0,144.4,32.9,Sim,False
+PB,035242,Ventos de Arapuá 3,4,3.5,84.0,132.0,150.0,13.86,Sim,False
+RS,030330,Sangradouro 3,12,2.3,108.0,82.0,149.0,27.6,Sim,False
+RS,030742,Verace II,10,2.0,78.0,97.0,126.5,20.0,Sim,False
+PI,033015,Ventos de Santa Angela 11,14,3.1,120.0,125.0,182.5,44.1,Sim,False
+PI,033012,Ventos de Santa Angela 08,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+RS,030762,Cerro dos Trindade,4,2.0,85.0,100.0,135.0,8.0,Sim,False
+RN,030370,Miassaba II,9,1.6,80.0,82.5,121.2,14.4,Sim,False
+RS,030829,Verace V,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+BA,034889,Ventos da Bahia XXVII,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+RS,031647,Aura Mangueira XV,6,3.0,120.0,125.0,182.5,18.0,Sim,False
+PI,031417,Ventos de Santa Joana IX,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+PI,031661,Ventos de Santo Augusto V,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+PI,033006,Ventos de Santa Ângela 02,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+RN,038144,Vila Sergipe III,4,4.2,120.0,150.0,195.0,16.8,Sim,False
+BA,034739,Ventos do São Gabriel,13,2.1,80.0,114.0,137.0,27.3,Sim,False
+BA,033508,Ventos de São Januário 01,8,4.2,105.0,150.0,180.0,33.6,Sim,False
+BA,032759,Boa Vista da Lagoinha,15,2.0,80.0,110.0,135.0,30.0,Sim,True
+RS,031806,Aura Mirim II,10,3.0,120.0,125.0,182.5,30.0,Sim,False
+SC,029054,Cascata,4,1.5,100.0,77.0,138.5,6.0,Sim,False
+PI,033141,Ventos de São Vicente 11,14,2.1,80.0,114.0,136.0,29.4,Sim,False
+PE,031821,Ventos de São Clemente 4,17,1.8,80.0,103.0,131.5,31.36,Sim,False
+BA,033523,Ventos de São Januário 06,9,4.2,105.0,150.0,180.0,37.8,Sim,False
+PI,031538,Ventos de Santa Joana V,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+RN,031072,Campo dos Ventos I,12,2.1,93.0,114.0,150.0,25.2,Sim,False
+RN,036980,Vila Ceará I,9,3.5,120.0,132.0,186.0,31.95,Sim,False
+PB,035181,Canoas 2,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+PI,033139,Ventos de São Vicente 13,14,2.1,80.0,114.0,136.0,29.4,Sim,False
+RN,036976,Ventos de Vila Ceará II,9,3.5,120.0,132.0,186.0,31.18,Sim,False
+RN,030702,GE Maria Helena,13,2.1,120.0,110.0,175.0,27.3,Sim,False
+PB,029091,Coelhos IV,6,0.8,75.6,48.0,99.6,4.8,Sim,False
+RN,036975,Vila Piauí I,9,4.2,120.0,150.0,195.0,37.8,Sim,False
+BA,031796,Umburanas 06,8,2.5,90.0,116.0,148.0,20.0,Sim,False
+PI,033011,Ventos de Santa Angela 07,8,3.1,120.0,125.0,182.5,25.2,Sim,False
+BA,032343,Assuruá IV,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+BA,035222,Serra do Fogo,9,3.5,84.0,132.0,150.0,31.18,Sim,False
+BA,031744,Umburanas 11,6,2.5,90.0,116.0,148.0,15.0,Sim,False
+BA,031606,Tamanduá Mirim 2,8,2.0,78.0,97.0,126.5,16.0,Sim,False
+BA,032644,Ventos de São Januário 05,10,4.2,105.0,150.0,180.0,42.0,Sim,False
+PI,031581,Ventos de Santa Joana I,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+RS,031701,Aura Mirim VI,3,3.0,120.0,125.0,182.5,9.0,Sim,False
+RN,031425,Santa Úrsula,13,2.1,93.0,114.0,150.0,27.3,Sim,False
+PI,033667,Ventos de São Virgílio 02,13,2.3,80.0,116.0,138.0,29.9,Sim,False
+BA,037102,Ventos de São Januário 20,12,4.2,105.0,150.0,180.0,50.4,Sim,False
+PI,031766,Ventos de Santo Augusto VI,13,2.3,80.0,107.0,133.5,29.9,Sim,False
+RN,031665,Cabeço Vermelho II,8,2.1,95.0,110.0,150.0,16.8,Sim,False
+MA,033682,Delta 3 I,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+BA,033631,Campo Largo VI,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+BA,032082,Cristalândia II,15,2.0,80.0,110.0,135.0,30.0,Sim,False
+MA,033680,Delta 3 VII,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+PE,029020,Gravatá Fruitrade,3,1.6,70.0,82.0,111.0,4.95,Sim,False
+PI,031666,Testa Branca I,10,2.3,80.0,107.0,133.5,23.0,Sim,False
+PI,031270,Ventos de Santa Edwiges,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+BA,032535,Ventos da Bahia XIII,9,5.5,101.0,158.0,180.0,49.5,Sim,True
+CE,030907,Jandaia I,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+BA,032362,Mulungu,5,2.7,89.0,122.0,150.0,13.5,Sim,False
+BA,033650,Ventos do São Mário,15,2.0,80.0,110.0,135.0,30.0,Sim,False
+RN,038327,Vila Maranhão III,9,3.5,120.0,132.0,186.0,31.95,Sim,False
+PI,033007,Ventos de Santa Ângela 03,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+RS,030748,Verace IX,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+PI,033138,Ventos de São Vicente 14,14,2.1,80.0,114.0,136.0,29.4,Sim,False
+BA,032536,Ventos da Bahia XIV,6,5.5,126.0,158.0,205.0,33.0,Sim,True
+BA,033649,Ventos da Santa Esperança,14,2.0,80.0,110.0,135.0,28.0,Sim,False
+RS,030746,Verace III,13,2.0,78.0,97.0,126.5,26.0,Sim,False
+RN,030454,Mel 02,10,2.0,78.0,90.0,123.0,20.0,Sim,False
+PI,031749,Ventos de Santo Augusto VII,8,2.3,80.0,107.0,133.5,18.4,Sim,False
+RN,031015,Cabeço Preto III,13,2.0,95.0,110.0,150.0,26.0,Sim,False
+BA,032342,Assuruá III,5,2.5,90.0,116.0,147.3,12.5,Sim,False
+RS,030749,Verace X,14,2.0,78.0,97.0,126.5,28.0,Sim,False
+RS,031699,Aura Mirim VIII,3,3.0,120.0,125.0,182.5,9.0,Sim,False
+RN,030843,Reduto,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+CE,030585,Ventos de Tianguá,15,1.9,80.0,100.0,130.0,27.75,Sim,False
+BA,033529,Ventos de São Januário 10,10,4.2,105.0,150.0,180.0,42.0,Sim,False
+CE,030596,Ventos do Parazinho,16,1.8,80.0,100.0,130.0,29.12,Sim,False
+BA,032346,Curral de Pedras II,11,2.5,90.0,116.0,147.3,27.5,Sim,False
+BA,032344,Capoeiras III,11,2.5,90.0,116.0,147.3,27.5,Sim,False
+PI,033008,Ventos de Santa Ângela 04,10,3.1,120.0,125.0,182.5,31.5,Sim,False
+RN,030700,GE Jangada,13,2.1,120.0,110.0,175.0,27.3,Sim,False
+CE,031736,Pedra Cheirosa,12,2.1,93.0,114.0,150.0,25.2,Sim,False
+BA,034738,Ventos da Santa Beatriz,13,2.1,80.0,114.0,137.0,27.3,Sim,False
+PI,031597,Ventos de Santa Joana VII,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+RS,030741,Verace IV,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+BA,037069,Pedra do Reino V,4,4.0,90.0,150.0,165.0,16.0,Sim,False
+BA,031511,Papagaio,5,2.0,78.0,97.0,126.5,10.0,Sim,False
+BA,031459,Caititu 3,5,2.0,78.0,97.0,126.5,10.0,Sim,False
+BA,034883,Ventos da Bahia XVIII,13,2.2,80.0,110.0,135.0,28.6,Sim,False
+BA,032462,Serra da Babilônia II,12,2.4,98.0,92.0,144.0,28.2,Sim,False
+CE,030921,São Januário,7,3.0,120.0,125.0,182.5,21.0,Sim,False
+PE,044554,Tacaicó II,9,5.5,101.0,158.0,180.0,49.5,Sim,False
+CE,030927,São Clemente,7,3.0,120.0,125.0,182.5,21.0,Sim,False
+BA,033626,Laranjeiras III,10,2.5,90.0,116.0,148.0,25.0,Sim,False
+BA,034509,Ventos de Santa Esperança 17,10,4.2,105.0,150.0,180.0,42.0,Sim,False
+BA,040611,Serra da Babilônia E,5,5.3,121.0,158.0,200.0,26.5,Sim,False
+BA,034507,Ventos de Santa Esperança 15,11,4.2,105.0,150.0,180.0,46.2,Sim,False
+RS,031805,Aura Mangueira VII,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+CE,002801,Taíba,10,0.5,46.0,40.0,66.0,5.0,Sim,False
+BA,031667,Baraúnas II,11,2.4,98.0,92.0,144.0,25.85,Sim,False
+BA,032471,Serra da Babilônia XII,12,2.4,98.0,92.0,144.0,28.2,Sim,False
+PE,031819,Ventos de São Clemente 2,17,1.8,80.0,103.0,131.5,31.36,Sim,False
+BA,031758,Ventos da Bahia II,9,3.0,120.0,125.0,182.5,27.0,Sim,True
+RN,030804,São João,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+CE,031698,Pedra Cheirosa II,11,2.1,93.0,114.0,150.0,23.1,Sim,False
+BA,033530,Ventos de São Januário 11,10,4.2,105.0,150.0,180.0,42.0,Sim,False
+RS,031646,Aura Mangueira XIII,5,3.0,120.0,125.0,182.5,15.0,Sim,False
+MA,033675,Delta 3 V,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+PI,031272,Ventos de Santo Albano,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+BA,031343,Assuruá II,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+CE,030584,Ventos de Tianguá Norte,16,1.9,80.0,100.0,130.0,29.12,Sim,False
+RN,031025,Macambira I,9,2.0,80.0,110.0,135.0,18.0,Sim,False
+PE,031825,Ventos de São Clemente 8,12,1.8,80.0,103.0,131.5,22.14,Sim,False
+PE,044553,Pau Ferro II,9,5.5,101.0,158.0,180.0,49.5,Sim,False
+CE,031747,Ventos de Santo Augusto II,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+BA,032111,Umbuzeiro,14,2.7,89.0,122.0,150.0,37.8,Sim,False
+BA,032363,Pau Santo,7,2.7,89.0,122.0,150.0,18.9,Sim,False
+PI,031276,Ventos de Santa Regina,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RS,031705,Aura Mangueira XVII,5,3.0,120.0,125.0,182.5,15.0,Sim,False
+BA,032468,Serra da Babilônia VIII,12,2.4,98.0,92.0,144.0,28.2,Sim,False
+PI,031662,Ventos de Santo Augusto III,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+RN,031759,Vila Pará I,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+CE,031579,Bons Ventos Cacimbas 5,10,2.1,120.0,110.0,175.0,21.0,Sim,False
+PE,031822,Ventos de São Clemente 5,17,1.8,80.0,103.0,131.5,31.36,Sim,False
+RN,031812,Calango 6,15,2.0,80.0,114.0,137.0,30.0,Sim,False
+RN,030849,Santo Cristo,9,3.0,120.0,125.0,182.0,27.46,Sim,False
+BA,040612,Serra da Babilônia F,4,5.3,121.0,158.0,200.0,21.2,Sim,False
+PE,031823,Ventos de São Clemente 6,15,1.8,80.0,103.0,131.5,27.68,Sim,False
+BA,032531,Ventos da Bahia IX,13,2.2,80.0,110.0,135.0,28.6,Sim,False
+RS,030740,Verace VI,9,2.0,78.0,97.0,126.5,18.0,Sim,False
+PB,037953,Canoas 4,10,3.5,84.0,132.0,150.0,34.65,Sim,False
+BA,040609,Serra da Babilônia C,5,5.3,121.0,158.0,200.0,26.5,Sim,False
+PI,033014,Ventos de Santa Angela 10,13,3.1,120.0,125.0,182.5,40.95,Sim,False
+RN,036973,Vila Piauí II,9,4.2,120.0,150.0,195.0,37.8,Sim,False
+BA,033633,Campo Largo XXI,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+CE,030915,Caiçara II,6,3.0,120.0,116.0,178.0,18.0,Sim,False
+RN,031826,Umbuzeiros,14,2.4,98.4,92.0,144.4,32.9,Sim,False
+PI,031271,Ventos de Santo Adriano,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+MA,033684,Delta 3 III,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+MA,033673,Delta 3 VI,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+BA,031743,Umburanas 09,7,2.5,90.0,116.0,148.0,17.5,Sim,False
+BA,031405,Jabuticaba,3,3.0,75.0,100.0,125.0,9.0,Sim,False
+RS,031477,Galpões,4,2.0,80.0,114.0,137.0,8.0,Sim,False
+BA,033629,Campo Largo IV,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+BA,033521,Ventos de São Januário 03,8,4.2,105.0,150.0,180.0,33.6,Sim,False
+RN,038002,Figueira Branca,3,3.5,120.0,132.0,186.0,10.65,Sim,False
+BA,031518,Coqueirinho 2,8,2.0,78.0,97.0,126.5,16.0,Sim,False
+BA,034692,Ventos de Santa Esperança 13,8,4.2,105.0,150.0,180.0,33.6,Sim,False
+BA,031433,Acauã,3,2.0,78.0,97.0,126.5,6.0,Sim,False
+RS,031663,Aura Mirim IV,5,3.0,120.0,125.0,182.5,15.0,Sim,False
+PI,031603,Ventos de Santo Augusto IV,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+BA,032081,Cristalândia I,15,2.0,80.0,110.0,135.0,30.0,Sim,False
+BA,033632,Campo Largo VII,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+CE,030902,Junco I,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+BA,031447,Carcará,5,2.0,78.0,97.0,126.5,10.0,Sim,False
+BA,031607,Banda de Couro,14,2.4,98.0,92.0,144.0,32.9,Sim,False
+BA,031352,Mussambê,14,2.4,98.0,92.0,144.0,32.9,Sim,False
+PI,031273,Ventos de Santa Fátima,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+BA,031120,São Salvador,7,2.7,89.0,122.0,150.0,18.9,Sim,False
+PI,031274,Ventos de Santa Bárbara,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+BA,034736,Ventos de Santa Aparecida,13,2.1,80.0,114.0,137.0,27.3,Sim,False
+RS,030747,Verace VII,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+BA,031432,Caititu 2,5,2.0,78.0,97.0,126.5,10.0,Sim,False
+BA,033652,Ventos do São Paulo,14,2.0,80.0,110.0,135.0,28.0,Sim,False
+BA,031756,Umburanas 18,3,2.5,90.0,116.0,148.0,7.5,Sim,False
+RN,033752,Vila Acre I,13,2.1,93.0,114.0,150.0,27.3,Sim,False
+BA,032349,Laranjeiras I,11,2.5,90.0,116.0,147.3,27.5,Sim,False
+PE,032360,Serra das Vacas V,11,2.3,80.0,116.0,138.0,25.3,Sim,False
+PE,031820,Ventos de São Clemente 3,17,1.8,80.0,103.0,131.5,31.36,Sim,False
+MA,033686,Delta 3 VIII,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+PI,030639,Porto do Delta,14,2.2,80.0,107.0,133.5,30.8,Sim,False
+RN,031643,União dos Ventos 14,20,2.1,120.0,114.0,177.0,42.0,Sim,False
+PI,031520,Ventos de Santa Joana IV,16,1.7,80.0,100.0,130.0,27.2,Sim,False
+PI,032368,Ventos de São Virgílio 03,9,2.2,80.0,116.0,138.0,19.8,Sim,False
+RN,030856,Pelado,10,2.0,78.0,97.0,127.5,20.0,Sim,False
+BA,031341,Assuruá V,10,2.0,78.0,97.0,126.5,20.0,Sim,False
+BA,032466,Serra da Babilônia VI,22,2.4,98.0,92.0,144.0,51.7,Sim,False
+RN,031811,Santana II,12,2.0,80.0,114.0,137.0,24.0,Sim,False
+BA,032465,Serra da Babilônia IX,12,2.4,98.0,92.0,144.0,28.2,Sim,False
+BA,037083,Serra da Babilônia A,4,5.3,121.0,158.0,200.0,21.2,Sim,False
+RS,030755,Verace VIII,13,2.0,78.0,97.0,126.5,26.0,Sim,False
+RN,030701,Dreen Cutia,11,2.1,120.0,110.0,175.0,23.1,Sim,False
+MA,033683,Delta 3 II,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+BA,032351,Laranjeiras V,10,2.5,90.0,116.0,147.3,25.0,Sim,False
+BA,033533,Ventos de São Januário 14,10,4.2,105.0,150.0,180.0,42.0,Sim,False
+BA,031431,Teiú 2,4,2.0,78.0,97.0,126.5,8.0,Sim,False
+CE,030582,Ventos do Morro do Chapéu,15,1.9,80.0,100.0,130.0,27.51,Sim,False
+PI,032366,Ventos de Santo Onofre IV,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+BA,032526,Ventos da Bahia I,13,2.2,80.0,110.0,135.0,28.6,Sim,False
+RS,031510,Capão do Inglês,5,2.0,80.0,114.0,137.0,10.0,Sim,False
+BA,031435,Angical 2,5,2.0,78.0,97.0,126.5,10.0,Sim,False
+RN,031750,Vila Amazonas V,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+RN,032352,Pedra Rajada,10,2.0,80.0,110.0,135.0,20.0,Sim,False
+RN,031026,Macambira II,9,2.0,80.0,110.0,135.0,18.0,Sim,False
+PI,033144,Ventos de São Vicente 08,14,2.1,80.0,114.0,136.0,29.4,Sim,False
+BA,032345,Curral de Pedras I,8,2.5,90.0,116.0,147.3,20.0,Sim,False
+BA,032469,Serra da Babilônia X,12,2.4,98.0,92.0,144.0,28.2,Sim,False
+PE,031824,Ventos de São Clemente 7,14,1.8,80.0,103.0,131.5,25.83,Sim,False
+CE,030895,Caiçara I,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+RN,030900,Cabeço Preto VI,9,2.0,95.0,110.0,150.0,18.0,Sim,False
+PI,033623,Aura Lagoa do Barro 5,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+PI,033624,Aura Lagoa do Barro 6,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+PI,033618,Aura Lagoa do Barro 7,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+BA,032347,Diamante II,7,2.5,90.0,116.0,147.3,17.5,Sim,False
+RS,031719,Aura Mangueira XI,3,3.0,120.0,125.0,182.5,9.0,Sim,False
+MA,033685,Delta 3 IV,12,2.3,80.0,116.0,138.0,27.6,Sim,False
+BA,032348,Diamante III,7,2.5,90.0,116.0,147.3,17.5,Sim,False
+PI,033621,Aura Lagoa do Barro 1,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+RN,030831,Carnaúbas,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+RN,030699,Dreen Guajiru,10,2.1,120.0,110.0,175.0,21.0,Sim,False
+BA,032470,Serra da Babilônia XI,12,2.4,98.0,92.0,144.0,28.2,Sim,False
+RS,031653,Aura Mangueira XII,5,3.0,120.0,125.0,182.5,15.0,Sim,False
+PI,033622,Aura Lagoa do Barro 2,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+RN,031069,Campo dos Ventos V,12,2.1,93.0,114.0,150.0,25.2,Sim,False
+BA,031771,Ventos da Bahia VIII,9,3.0,100.0,125.0,162.5,27.0,Sim,True
+PE,032361,Serra das Vacas VII,11,2.3,80.0,116.0,138.0,25.3,Sim,False
+RN,030876,Cabeço Preto V,13,2.0,80.0,110.0,135.0,26.0,Sim,False
+PI,031580,Ventos de Santa Joana III,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+CE,030914,Junco II,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+RN,031765,Vila Pará III,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+BA,031770,Ventos da Bahia IV,4,3.0,120.0,125.0,182.5,12.0,Sim,False
+RS,031696,Aura Mangueira VI,9,3.0,120.0,125.0,182.5,27.0,Sim,False
+BA,031356,Assuruá VII,9,2.0,78.0,97.0,126.5,18.0,Sim,False
+PI,033625,Aura Queimada Nova 3,3,3.0,120.0,125.0,182.5,9.0,Sim,False
+RN,031802,Jericó,14,2.4,98.4,92.0,144.4,32.9,Sim,False
+RN,031757,Vila Pará II,8,3.0,120.0,125.0,182.5,24.0,Sim,False
+BA,032364,Quina,4,2.7,89.0,122.0,150.0,10.8,Sim,False
+BA,032350,Laranjeiras II,12,2.5,90.0,116.0,147.3,30.0,Sim,False
+PI,031361,Ventos de Santa Joana II,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+PI,031388,Ventos de Santa Joana XI,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+PI,031414,Ventos de Santa Joana XII,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+PI,031367,Ventos de Santa Joana VI,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+RS,031700,Aura Mangueira IV,7,3.0,120.0,125.0,182.5,21.0,Sim,False
+RN,037070,Quixabeira,12,4.2,120.0,150.0,195.0,50.4,Não,False
+PI,031393,Ventos de Santa Joana X,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+CE,030841,Malhadinha I,11,2.1,80.0,110.0,135.0,23.1,Sim,False
+PI,033019,Ventos de Santa Angela 15,14,3.1,120.0,125.0,182.5,43.5,Sim,False
+RN,028443,Alegria II,61,1.6,70.0,82.0,111.0,100.65,Sim,False
+PI,031366,Ventos de Santa Joana VIII,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+PE,031763,Ventos de Santo Estevão III,13,2.3,80.0,116.0,138.0,29.9,Sim,False
+PE,031762,Ventos de Santo Estevão II,11,2.3,80.0,116.0,138.0,25.3,Sim,False
+RN,037077,São Fernando 4,24,3.5,120.0,132.0,186.0,83.16,Sim,False
+BA,030476,Ventos do Nordeste,13,1.7,80.0,82.5,122.0,21.84,Sim,False
+PI,031362,Ventos de Santo Onofre II,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+CE,030356,Icaraí II,18,2.1,100.0,95.0,147.5,37.8,Sim,False
+PE,031354,Ventos de Santa Brígida III,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+PE,031346,Ventos de Santa Brígida V,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+CE,031886,Ventos de Santo Onofre III,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+PE,031370,Ventos de Santa Brígida IV,16,1.7,80.0,100.0,130.0,27.2,Sim,False
+BA,030792,Caetité,18,1.7,80.0,82.5,122.0,30.24,Sim,False
+RS,030833,Vento Aragano I,11,2.7,89.0,122.0,150.0,29.7,Sim,False
+RN,032495,Terra Santa I,17,3.5,120.0,132.0,183.0,60.35,Sim,False
+RN,030933,Baixa do Feijão II,15,2.0,100.0,97.0,148.5,30.0,Sim,False
+BA,030544,Tanque,18,1.7,80.0,82.5,122.0,30.0,Sim,False
+RS,030784,Cerro Chato IV,5,2.0,85.0,100.0,135.0,10.0,Sim,False
+RN,030934,Baixa do Feijão III,15,2.0,100.0,97.0,148.5,30.0,Sim,False
+PI,031416,Ventos de Santa Joana XV,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+BA,030495,Dos Araçás,19,1.7,80.0,82.5,122.0,31.86,Sim,False
+BA,032108,Sabiu,5,2.7,90.0,122.0,151.0,13.5,Sim,False
+MA,037976,Delta 5 I,10,2.7,90.0,116.0,148.0,27.0,Não,False
+BA,030944,Ventos da Andorinha,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+PE,031764,Ventos de Santo Estevão V,12,2.3,80.0,107.0,133.5,27.6,Sim,False
+PE,032365,Ventos de Santo Estevão IV,13,2.3,80.0,116.0,138.0,29.9,Sim,False
+RN,030500,Campo dos Ventos II,15,2.0,98.0,82.0,139.0,30.0,Sim,False
+PI,031392,Ventos de Santa Joana XVI,17,1.7,80.0,100.0,130.0,28.9,Sim,False
+BA,032884,Ventos do Santo Abraão,14,2.0,80.0,110.0,135.0,28.0,Sim,False
+BA,030802,Serra do Espinhaço,11,1.7,80.0,82.5,122.0,18.48,Sim,False
+RN,030548,Asa Branca III,10,2.7,89.0,122.0,150.0,27.0,Sim,False
+PI,031364,Ventos de Santo Onofre I,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+MA,037970,Delta 6 I,11,2.7,90.0,116.0,148.0,29.7,Não,False
+PI,031368,Ventos de Santa Joana XIV,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+PI,031394,Ventos de Santa Joana XIII,16,1.9,80.0,82.5,121.2,29.6,Sim,False
+BA,030943,Ventos de Campo Formoso I,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+BA,031355,Esperança,14,2.0,80.0,144.0,137.0,28.0,Sim,False
+BA,030946,Ventos do Sertão,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+BA,030945,Ventos de Morrinhos,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+RN,030509,Eurus IV,10,2.7,89.0,122.0,150.0,27.0,Sim,False
+BA,031010,Ventos de Campo Formoso II,15,2.0,78.0,97.0,126.5,30.0,Sim,False
+RS,030786,Cerro Chato V,6,2.0,85.0,100.0,135.0,12.0,Sim,False
+BA,030837,Borgo,12,1.7,80.0,82.5,121.2,20.16,Sim,False
+RN,036974,Ventos de Vila Ceará I,9,3.5,120.0,132.0,186.0,31.18,Sim,False
+RN,030932,Baixa do Feijão I,15,2.0,100.0,97.0,148.5,30.0,Sim,False
+MA,037967,Delta 6 II,9,2.7,90.0,116.0,148.0,24.3,Não,False
+PE,031363,Ventos de Santa Brígida II,16,1.7,80.0,100.0,130.0,27.2,Sim,False
+RN,032501,Terra Santa II,9,3.5,120.0,132.0,183.0,31.95,Sim,False
+RN,031373,Ventos de São Benedito,14,2.1,93.0,114.0,150.0,29.4,Sim,False
+PE,031761,Ventos de Santo Estevão I,11,2.3,80.0,116.0,138.0,25.3,Sim,False
+RN,030931,Baixa do Feijão IV,15,2.0,100.0,97.0,148.5,30.0,Sim,False
+RN,047242,Ventos de Santa Tereza 08,7,5.6,120.0,150.0,195.0,39.2,Não,False
+BA,031458,Corrupião 3,5,2.0,78.0,97.0,126.5,10.0,Sim,False
+RN,030547,Asa Branca II,10,2.7,89.0,122.0,150.0,27.0,Sim,False
+MA,037972,Delta 5 II,10,2.7,90.0,116.0,148.0,27.0,Não,False
+BA,030506,Morrão,18,1.7,80.0,82.5,122.0,30.24,Sim,False
+RN,047245,Ventos de Santa Tereza 11,7,5.6,120.0,150.0,195.0,39.2,Não,False
+BA,031434,Arapapá,2,2.0,78.0,97.0,126.5,4.0,Sim,False
+BA,032246,Pau D'Água,6,3.0,75.0,100.0,125.0,18.0,Sim,False
+RN,047240,Ventos de Santa Tereza 06,8,5.6,120.0,150.0,195.0,44.8,Não,False
+PI,044359,Oitis 2,5,5.5,126.0,158.0,205.0,27.5,Sim,False
+BA,030793,Pelourinho,13,1.7,80.0,82.5,122.0,21.84,Sim,False
+BA,030803,Espigão,6,1.7,83.8,82.5,125.0,10.08,Sim,False
+RN,047243,Ventos de Santa Tereza 09,7,5.6,120.0,150.0,195.0,39.2,Não,False
+PI,033479,Testa Branca III,10,2.4,80.0,107.0,133.5,24.0,Sim,False
+RN,035165,Angicos I,6,4.2,125.0,150.0,200.0,25.2,Sim,False
+BA,032098,Cedro,4,3.0,75.0,110.0,130.0,12.0,Sim,False
+BA,032104,Jataí,6,2.7,90.0,122.0,151.0,16.2,Sim,False
+PE,031006,Caminho da Praia,1,2.0,85.0,100.0,135.0,2.0,Sim,False
+BA,034614,Campo Largo VIII,8,4.2,120.0,150.0,195.0,33.6,Sim,False
+BA,034631,Campo Largo IX,6,4.2,120.0,150.0,195.0,25.2,Sim,False
+BA,034630,Campo Largo X,8,4.2,120.0,150.0,195.0,33.6,Sim,False
+BA,034625,Campo Largo XI,4,4.2,120.0,150.0,195.0,16.8,Sim,False
+BA,034623,Campo Largo XII,13,4.2,120.0,150.0,195.0,54.6,Sim,False
+BA,034622,Campo Largo XIII,10,4.2,120.0,150.0,195.0,42.0,Sim,False
+BA,034634,Campo Largo XIV,5,4.2,120.0,150.0,195.0,21.0,Sim,False
+BA,034638,Campo Largo XVII,7,4.2,120.0,150.0,195.0,29.4,Não,False
+BA,034645,Campo Largo XIX,8,4.2,120.0,150.0,195.0,33.6,Sim,False
+BA,034647,Campo Largo XX,9,4.2,120.0,150.0,195.0,37.8,Sim,False
+BA,034648,Campo Largo XXII,8,4.2,120.0,150.0,195.0,33.6,Sim,False
+PI,044362,Oitis 3,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+PI,044363,Oitis 4,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+PI,044364,Oitis 5,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+PI,044365,Oitis 6,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+PI,044366,Oitis 7,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+PI,044368,Oitis 9,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+PI,044358,Oitis 10,9,5.5,126.0,158.0,205.0,49.5,Não,False
+BA,044361,Oitis 22,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+RN,033430,Filgueira II,8,3.5,120.0,132.0,186.0,28.4,Sim,False
+RN,033429,Filgueira I,11,3.5,120.0,132.0,186.0,39.05,Sim,False
+BA,037001,Ararinha Azul,9,2.4,98.0,92.0,144.0,21.15,Sim,False
+BA,037019,Corrupião 2,8,2.4,98.0,92.0,144.0,18.8,Sim,False
+BA,037093,Teiú 3,10,2.4,98.0,92.0,144.0,23.5,Sim,False
+BA,032487,Inhambu 2,7,2.4,98.0,92.0,144.0,16.45,Sim,False
+CE,040794,Gravier,17,4.2,125.0,147.0,198.0,71.4,Sim,False
+PI,038103,Ventos de São Roque 01,9,5.5,101.0,158.0,180.0,49.5,Sim,False
+PI,038104,Ventos de São Roque 02,9,5.5,101.0,158.0,180.0,49.5,Sim,False
+PI,038106,Ventos de São Roque 04,9,5.5,101.0,158.0,180.0,49.5,Sim,False
+PI,040626,Ventos de São Roque 08,9,5.5,101.0,158.0,180.0,49.5,Sim,False
+PI,040629,Ventos de São Roque 11,9,5.5,101.0,158.0,180.0,49.5,Sim,True
+PI,038110,Ventos de São Roque 16,9,5.5,101.0,158.0,180.0,49.5,Sim,True
+RN,040594,Vila Espírito Santo I,8,4.2,123.0,150.0,198.0,33.6,Sim,False
+RN,040596,Vila Espírito Santo III,9,4.2,123.0,150.0,198.0,37.8,Sim,False
+RN,040598,Vila Espírito Santo V,9,4.2,123.0,150.0,198.0,37.8,Sim,False
+RN,040597,Vila Espírito Santo IV,9,4.2,123.0,150.0,198.0,37.8,Sim,False
+RN,040595,Vila Espírito Santo II,9,4.2,123.0,150.0,198.0,37.8,Sim,False
+RN,036977,Vila Alagoas II,5,4.2,123.0,150.0,198.0,21.0,Sim,False
+BA,032569,Tucano IV,7,6.2,115.0,170.0,200.0,43.4,Sim,False
+BA,032578,Tucano VI,8,6.2,115.0,170.0,200.0,49.6,Sim,False
+BA,032579,Tucano VII,9,6.2,115.0,170.0,200.0,55.8,Sim,False
+RN,046742,Toda Energia do Brasil,8,3.5,120.0,132.0,186.0,27.72,Sim,False
+RN,033597,Acauã I,6,4.2,125.0,147.0,198.5,25.2,Não,False
+RN,033598,Acauã II,5,4.2,125.0,147.0,198.5,21.0,Não,False
+BA,040608,Serra da Babilônia B,6,5.3,121.0,158.0,200.0,31.8,Sim,False
+BA,040610,Serra da Babilônia D,6,5.3,121.0,158.0,200.0,31.8,Sim,False
+RN,037021,Cumaru V,9,4.2,125.0,150.0,200.0,37.8,Sim,False
+RN,037020,Cumaru IV,10,4.2,125.0,150.0,200.0,42.0,Sim,False
+RN,032209,Cumaru III,10,4.2,125.0,150.0,200.0,42.0,Sim,False
+RN,032208,Cumaru II,10,4.2,125.0,150.0,200.0,42.0,Sim,False
+RN,032207,Cumaru I,10,4.2,125.0,150.0,200.0,42.0,Sim,False
+RN,032375,Serra do Mato I,5,4.2,125.0,150.0,200.0,21.0,Sim,False
+RN,032377,Serra do Mato III,5,4.2,125.0,150.0,200.0,21.0,Sim,False
+RN,032378,Serra do Mato IV,5,4.2,125.0,150.0,200.0,21.0,Sim,False
+RN,032379,Serra do Mato VI,4,4.2,125.0,150.0,200.0,16.8,Sim,False
+RN,032376,Serra do Mato II,5,4.2,125.0,150.0,200.0,21.0,Sim,False
+RN,032453,Serra do Mato V,5,4.2,125.0,150.0,200.0,21.0,Sim,False
+BA,038031,Baraúnas XV,14,3.5,84.0,132.0,150.0,48.51,Sim,False
+BA,036993,Baraúnas XX,9,3.5,84.0,132.0,150.0,31.18,Sim,False
+BA,038032,Baraúnas IV,12,3.5,84.0,132.0,150.0,41.58,Sim,False
+BA,049379,Serra do Assuruá IX,16,4.5,90.0,150.0,165.0,82.5,Não,True
+BA,049380,Serra do Assuruá X,16,4.5,90.0,150.0,165.0,82.5,Não,True
+BA,049381,Serra do Assuruá XI,16,4.5,90.0,150.0,165.0,82.5,Não,True
+BA,049382,Serra do Assuruá XII,11,4.5,90.0,150.0,165.0,57.0,Não,True
+BA,049383,Serra do Assuruá XIII,14,4.5,90.0,150.0,165.0,72.0,Não,True
+BA,049387,Serra do Assuruá XIV,11,4.5,90.0,150.0,165.0,57.0,Não,True
+BA,049388,Serra do Assuruá XV,14,4.5,90.0,150.0,165.0,72.0,Não,True
+BA,049389,Serra do Assuruá XVI,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,049390,Serra do Assuruá XVII,16,4.5,90.0,150.0,165.0,82.5,Não,True
+BA,049391,Serra do Assuruá XVIII,16,4.5,90.0,150.0,165.0,82.5,Não,True
+BA,049392,Serra do Assuruá XIX,16,4.5,90.0,150.0,165.0,82.5,Não,True
+BA,049393,Serra do Assuruá XX,16,4.5,90.0,150.0,165.0,82.5,Não,True
+BA,049394,Serra do Assuruá XXI,16,4.5,90.0,150.0,165.0,82.5,Não,True
+BA,049395,Serra do Assuruá XXII,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,049396,Serra do Assuruá XXIII,14,4.5,90.0,150.0,165.0,72.0,Não,True
+BA,049397,Serra do Assuruá XXIV,11,4.5,90.0,150.0,165.0,57.0,Não,True
+RN,033831,Santo Agostinho 1,3,6.2,115.0,170.0,200.0,18.6,Não,False
+RN,033833,Santo Agostinho 2,5,6.2,115.0,170.0,200.0,31.0,Não,False
+RN,033834,Santo Agostinho 3,2,6.2,115.0,170.0,200.0,12.4,Não,False
+RN,033836,Santo Agostinho 5,9,6.2,115.0,170.0,200.0,55.8,Não,False
+RN,035214,Santo Agostinho 25,4,6.2,115.0,170.0,200.0,24.8,Não,False
+RN,033872,Santo Agostinho 18,5,6.2,115.0,170.0,200.0,31.0,Não,False
+RN,033857,Santo Agostinho 17,7,6.2,115.0,170.0,200.0,43.4,Sim,False
+RN,033838,Santo Agostinho 6,4,6.2,115.0,170.0,200.0,24.8,Não,False
+RN,033875,Santo Agostinho 21,5,6.2,115.0,170.0,200.0,31.0,Não,False
+RN,033853,Santo Agostinho 13,6,6.2,115.0,170.0,200.0,37.2,Sim,False
+RN,037959,Costa das Dunas,8,3.5,120.0,132.0,120.0,28.4,Sim,False
+RN,037999,Farol de Touros,7,3.5,120.0,132.0,120.0,24.85,Sim,False
+RN,038006,Gameleira,5,3.5,120.0,132.0,120.0,17.75,Sim,False
+RN,037073,São Fernando 1,22,3.5,120.0,132.0,186.0,76.23,Sim,False
+RN,038310,Ventos de Santa Martina 01,15,4.2,90.0,150.0,165.0,63.0,Sim,False
+RN,038318,Ventos de Santa Martina 09,15,4.2,90.0,150.0,165.0,63.0,Sim,False
+RN,038319,Ventos de Santa Martina 10,15,4.2,90.0,150.0,165.0,63.0,Sim,False
+RN,038320,Ventos de Santa Martina 11,15,4.2,90.0,150.0,165.0,63.0,Sim,False
+RN,038321,Ventos de Santa Martina 12,15,4.2,90.0,150.0,165.0,63.0,Sim,False
+RN,038322,Ventos de Santa Martina 13,16,4.2,90.0,150.0,165.0,67.2,Sim,False
+RN,038323,Ventos de Santa Martina 14,15,4.2,90.0,150.0,165.0,63.0,Sim,False
+RN,033753,Ventos de Vila Acre II,9,3.5,132.0,132.0,186.0,31.18,Sim,False
+RN,038325,Vila Maranhão I,9,3.5,120.0,132.0,186.0,31.95,Sim,False
+RN,038326,Vila Maranhão II,9,3.5,120.0,132.0,186.0,31.95,Sim,False
+BA,040625,Ventos de São Januário 23,14,4.2,90.0,150.0,165.0,58.8,Sim,False
+RN,040600,Potiguar B 31,13,3.5,120.0,132.0,186.0,45.05,Sim,False
+RN,040601,Potiguar B 32,14,3.5,120.0,132.0,186.0,48.51,Sim,False
+RN,040602,Potiguar B 33,17,3.5,120.0,132.0,186.0,58.91,Não,False
+PI,044555,Oitis 1,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+PI,044367,Oitis 8,9,5.5,126.0,158.0,205.0,49.5,Sim,False
+RS,031302,Xangri-lá,10,3.2,94.0,112.0,150.0,31.7,Sim,True
+RN,036984,Ventos de Vila Mato Grosso I,17,3.5,120.0,132.0,186.0,58.91,Sim,False
+RN,033002,Aventura II,5,4.2,110.0,150.0,185.0,21.0,Sim,True
+RN,033026,Aventura III,6,4.2,110.0,150.0,185.0,25.2,Sim,False
+RN,037949,Aventura IV,7,4.2,125.0,150.0,195.0,29.4,Sim,True
+RN,037950,Aventura V,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+PB,038030,Lagoa 4,6,3.5,84.0,132.0,150.0,20.79,Sim,False
+RN,035212,Santa Rosa e Mundo Novo III,8,4.2,90.0,150.0,165.0,33.6,Sim,False
+BA,046758,Canudos II,14,3.5,90.0,132.0,156.0,49.0,Não,False
+RN,035271,Jandaíra IV,8,3.5,120.0,132.0,186.0,27.72,1,False
+RN,037075,São Fernando 2,21,3.5,120.0,132.0,186.0,72.77,Não,False
+RN,037663,Santa Rosa e Mundo Novo IV,8,4.2,90.0,150.0,165.0,33.6,Sim,False
+RN,045010,Ventos de Santa Leia 12,15,4.3,90.0,150.0,165.0,64.9,Sim,False
+RN,045011,Ventos de Santa Leia 13,15,4.5,90.0,150.0,165.0,66.1,Sim,False
+RN,035211,Santa Rosa e Mundo Novo II,7,4.2,90.0,150.0,165.0,29.4,Sim,False
+BA,034655,Ventos de São Vitor 03,5,6.2,119.0,170.0,204.0,31.0,Não,False
+BA,034656,Ventos de São Vitor 04,5,6.2,119.0,170.0,204.0,31.0,Não,False
+BA,034848,Ventos de São Vitor 08,5,6.2,119.0,170.0,204.0,31.0,Não,False
+BA,034849,Ventos de São Vitor 09,5,6.2,119.0,170.0,204.0,31.0,Não,False
+BA,034658,Ventos de São Vitor 11,10,6.2,119.0,170.0,204.0,62.0,Não,False
+BA,034850,Ventos de São Vitor 13,10,6.2,119.0,170.0,204.0,62.0,Não,False
+BA,034660,Ventos de São Vitor 14,6,6.2,119.0,170.0,204.0,37.2,Não,False
+BA,034829,Ventos de São Vitor 05,5,6.2,119.0,170.0,204.0,31.0,Não,False
+BA,034830,Ventos de São Vitor 06,5,6.2,119.0,170.0,204.0,31.0,Não,False
+BA,034657,Ventos de São Vitor 10,7,6.2,119.0,170.0,204.0,43.4,Não,False
+RN,032870,Jandaíra I,3,3.5,120.0,132.0,186.0,10.39,Sim,False
+RN,035008,Jandaíra II,7,3.5,120.0,132.0,186.0,24.25,Sim,False
+RN,035270,Jandaíra III,8,3.5,120.0,132.0,186.0,27.72,Sim,False
+BA,034513,Ventos de Santa Esperança 25,6,4.2,105.0,150.0,180.0,25.2,Sim,False
+BA,034661,Ventos de Santa Esperança 08,6,4.2,105.0,150.0,180.0,25.2,Sim,False
+BA,038078,Ventos de Santa Eugênia 02,2,5.7,120.0,163.0,202.0,11.4,Sim,False
+BA,038083,Ventos de Santa Eugênia 07,3,5.7,120.0,163.0,202.0,17.1,Sim,False
+BA,038084,Ventos de Santa Eugênia 08,5,5.7,120.0,163.0,202.0,28.5,Não,False
+BA,038085,Ventos de Santa Eugênia 09,7,5.7,120.0,163.0,202.0,39.9,Não,False
+BA,038089,Ventos de Santa Eugênia 13,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,044878,Serra da Mangabeira,14,5.7,120.0,163.0,202.0,79.8,Não,False
+RN,035210,Santa Rosa e Mundo Novo I,8,4.2,90.0,150.0,165.0,33.6,Sim,False
+RN,037664,Santa Rosa e Mundo Novo V,6,4.2,90.0,150.0,165.0,25.2,Sim,False
+BA,034508,Ventos de Santa Esperança 16,10,4.2,105.0,150.0,180.0,42.0,Sim,False
+BA,034511,Ventos de Santa Esperança 21,11,4.2,105.0,150.0,180.0,46.2,Sim,False
+BA,034512,Ventos de Santa Esperança 22,11,4.2,105.0,150.0,180.0,46.2,Sim,False
+BA,034514,Ventos de Santa Esperança 26,11,4.2,105.0,150.0,180.0,46.2,Sim,False
+PB,035226,Serra do Seridó III,8,5.5,125.0,158.0,204.0,44.0,Sim,False
+RS,033807,Coxilha Negra 4,23,4.2,125.0,147.0,198.5,96.6,Não,False
+BA,054126,Corus,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,054153,Maestro,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,054152,Oeste,2,6.0,115.0,170.0,200.0,12.0,Não,False
+BA,054132,Santa Ana,2,6.0,115.0,170.0,200.0,12.0,Não,False
+BA,054138,Ventos da Montanha,4,6.0,115.0,170.0,200.0,24.0,Não,False
+BA,047211,Canudos IX,8,6.0,105.0,170.0,190.0,48.0,Não,False
+BA,047212,Canudos V,8,6.0,105.0,170.0,190.0,48.0,Não,False
+BA,047213,Canudos VI,8,6.0,105.0,170.0,190.0,48.0,Não,False
+BA,047214,Canudos VIII,8,6.0,105.0,170.0,190.0,48.0,Não,False
+BA,047216,Canudos XI,8,6.0,105.0,170.0,190.0,48.0,Não,False
+BA,047217,Canudos XII,8,6.0,105.0,170.0,190.0,48.0,Não,False
+BA,054125,Cirrus,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,054128,Cumulus,6,6.0,115.0,170.0,200.0,36.0,Não,False
+BA,054129,Eurus,4,6.0,115.0,170.0,200.0,24.0,Não,False
+BA,054130,Florence,2,6.0,115.0,170.0,200.0,12.0,Não,False
+BA,054156,Nimbos,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,054133,Santa Clara,6,6.0,115.0,170.0,200.0,36.0,Não,False
+BA,054135,Stratus,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,054139,Zefiro,5,6.0,115.0,170.0,200.0,30.0,Não,False
+CE,032931,Santa Clara I,7,4.5,125.0,150.0,200.0,31.5,Não,False
+CE,032932,Santa Clara III,7,4.5,125.0,150.0,200.0,31.5,Não,False
+CE,032933,Santa Clara IV,7,4.5,125.0,150.0,200.0,31.5,Não,False
+CE,032934,Santa Clara V,7,4.5,125.0,150.0,200.0,31.5,Não,False
+CE,032935,Santa Clara VI,7,4.5,125.0,150.0,200.0,31.5,Não,False
+CE,032937,Santa Clara VIII,7,4.5,125.0,150.0,200.0,31.5,Não,False
+RN,032201,AW Cruzeiro,9,4.2,125.0,147.0,198.0,37.8,Não,False
+RN,032196,AW Nova Arizona,5,4.2,125.0,147.0,198.0,21.0,Não,False
+CE,032936,Santa Clara VII,6,4.5,125.0,150.0,200.0,27.0,Não,False
+BA,055441,Serra do Gentio do Ouro II,9,6.2,115.0,170.0,200.0,55.8,Não,False
+BA,055442,Serra do Gentio do Ouro III,6,6.2,115.0,170.0,200.0,37.2,Não,False
+BA,055448,Serra do Gentio do Ouro IX,10,6.2,115.0,170.0,200.0,62.0,Não,False
+BA,055450,Serra do Gentio do Ouro XI,7,6.2,115.0,170.0,200.0,43.4,Não,False
+BA,055452,Serra do Gentio do Ouro XIII,10,6.2,115.0,170.0,200.0,62.0,Não,False
+BA,055454,Serra do Gentio do Ouro XVI,3,6.2,115.0,170.0,200.0,18.6,Não,False
+BA,055455,Serra do Gentio do Ouro XXI,6,6.2,115.0,170.0,200.0,37.2,Não,False
+BA,055456,Serra do Gentio do Ouro XXII,7,6.2,115.0,170.0,200.0,43.4,Não,False
+BA,055457,Serra do Gentio do Ouro XXIII,8,6.2,115.0,170.0,200.0,24.9,Não,False
+BA,055451,Serra do Gentio do Ouro XII,9,6.2,115.0,170.0,200.0,55.8,Não,False
+BA,055447,Serra do Gentio do Ouro VIII,6,6.2,115.0,170.0,200.0,37.2,Não,False
+BA,055449,Serra do Gentio do Ouro X,12,6.2,115.0,170.0,200.0,74.4,Não,False
+RN,040638,Vila Alagoas V,10,4.2,123.0,150.0,198.0,42.0,Não,False
+RN,036983,Vila Alagoas I,5,4.2,123.0,150.0,198.0,21.0,Não,False
+RN,052114,Vila Alagoas VI,6,4.2,123.0,150.0,198.0,25.2,Não,False
+PB,035194,Fragata I,7,4.5,120.0,150.0,195.0,31.5,Não,False
+PB,035195,Fragata II,8,4.5,120.0,150.0,195.0,36.0,Não,False
+PB,035196,Fragata III,10,4.5,120.0,150.0,195.0,45.0,Não,False
+PB,036969,Fragata IV,8,4.5,120.0,150.0,195.0,36.0,Não,False
+PB,038003,Fragata V,9,4.5,120.0,150.0,195.0,40.5,Não,False
+PB,038005,Fragata VII,5,4.5,120.0,150.0,195.0,22.5,Não,False
+PB,038004,Fragata VI,9,4.5,120.0,150.0,195.0,40.5,Não,False
+RN,050082,Casqueira I,7,6.0,115.0,170.0,200.0,42.0,Não,False
+RN,050083,Casqueira II,16,6.0,115.0,170.0,200.0,95.2,Não,True
+PI,032863,Aura Queimada Nova 01,7,4.6,110.0,155.0,188.0,32.2,Sim,False
+PI,040567,Aura Queimada Nova 02,11,4.6,110.0,155.0,188.0,50.6,Sim,False
+BA,037004,Caetité D,12,4.2,125.0,147.0,198.0,50.4,Não,False
+BA,050463,Assuruá 4 I,8,4.5,120.0,150.0,195.0,36.0,Sim,False
+BA,050465,Assuruá 4 III,8,4.5,120.0,150.0,195.0,36.0,Sim,False
+BA,050468,Assuruá 4 VI,8,4.5,120.0,150.0,195.0,36.0,Sim,False
+BA,050467,Assuruá 4 V,8,4.5,120.0,150.0,195.0,36.0,Não,False
+PB,032433,Picuí 1,6,4.5,125.0,150.0,200.0,27.0,Não,False
+BA,037005,Caetité E,9,4.2,125.0,147.0,198.0,37.8,Não,False
+BA,037006,Caetité F,6,4.2,125.0,147.0,198.0,25.2,Não,False
+RN,051067,Anemus Wind 3,13,4.2,125.0,147.0,198.0,54.6,Não,False
+BA,049371,Serra do Assuruá I,8,6.0,115.0,170.0,200.0,48.0,Não,False
+BA,049373,Serra do Assuruá III,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,049375,Serra do Assuruá V,6,6.0,115.0,170.0,200.0,36.0,Não,False
+BA,049376,Serra do Assuruá VI,14,4.5,90.0,150.0,165.0,72.0,Não,True
+BA,049378,Serra do Assuruá VIII,9,4.5,90.0,150.0,165.0,46.5,Não,True
+BA,049374,Serra do Assuruá IV,16,4.5,90.0,150.0,165.0,81.0,Não,True
+BA,049377,Serra do Assuruá VII,11,4.5,90.0,150.0,165.0,57.0,Não,True
+BA,049372,Serra do Assuruá II,4,6.0,115.0,170.0,200.0,24.0,Não,False
+RN,050098,São Domingos III,6,6.2,135.0,170.0,220.0,36.3,Não,True
+RN,050099,São Domingos IV,8,6.2,135.0,170.0,220.0,48.4,Não,True
+RN,050100,São Domingos V,4,6.2,135.0,170.0,220.0,24.2,Não,True
+RN,050096,São Domingos I,10,6.2,135.0,170.0,220.0,60.5,Não,True
+RN,050097,São Domingos II,11,5.9,120.0,163.0,202.0,66.4,Não,True
+CE,051531,Mutamba I,8,4.5,123.0,150.0,198.0,39.0,Não,True
+CE,032482,Mutamba III,7,5.5,125.0,158.0,204.0,38.5,Não,False
+CE,032483,Mutamba IV,6,5.5,125.0,158.0,204.0,33.0,Não,False
+PI,038109,Ventos de São Roque 07,8,5.7,120.0,163.0,202.0,45.6,Não,False
+PI,040631,Ventos de São Roque 13,8,5.7,120.0,163.0,202.0,45.6,Não,False
+PI,038113,Ventos de São Roque 19,8,5.7,120.0,163.0,202.0,45.6,Não,False
+PI,038116,Ventos de São Roque 22,8,5.7,120.0,163.0,202.0,45.6,Não,False
+PI,038120,Ventos de São Roque 26,8,5.7,120.0,163.0,202.0,45.6,Não,False
+PI,038123,Ventos de São Roque 29,6,5.7,120.0,163.0,202.0,34.2,Não,False
+BA,060308,Serra Gentio do Ouro 24,5,6.2,115.0,170.0,200.0,31.0,Não,False
+PB,044988,Serra da Borborema I,7,6.2,135.0,170.0,220.0,43.4,Não,False
+PB,044989,Serra da Borborema II,8,6.2,135.0,170.0,220.0,49.6,Não,False
+BA,040777,Brejinhos A,9,4.2,125.0,147.0,198.0,37.8,Não,False
+BA,040778,Brejinhos B,10,4.2,125.0,147.0,198.0,42.0,Não,False
+BA,038090,Ventos de Santa Eugênia 14,4,5.7,120.0,163.0,202.0,22.8,Não,False
+RN,050124,Itaúna I,6,6.2,115.0,170.0,200.0,36.3,Não,True
+RN,050125,Itaúna II,8,6.2,115.0,170.0,200.0,48.4,Não,True
+RN,050126,Itaúna III,14,6.2,135.0,170.0,220.0,84.7,Não,True
+RN,032280,Paraíso Farol II,3,4.5,125.0,150.0,200.0,13.5,Não,False
+RN,032281,Paraíso Farol III,7,4.5,125.0,150.0,200.0,31.5,Não,False
+RS,052435,Canelões I,15,6.2,115.0,170.0,200.0,81.1,Não,True
+RS,052436,Canelões II,10,4.5,125.0,150.0,200.0,51.8,Não,True
+RS,052440,Canelões VI,18,4.5,125.0,150.0,200.0,94.6,Não,True
+RS,052442,Canelões VIII,19,4.5,125.0,150.0,200.0,99.1,Não,True
+RS,052437,Canelões III,19,4.5,125.0,150.0,200.0,99.1,Não,True
+RS,052438,Canelões IV,16,6.2,115.0,170.0,200.0,85.6,Não,True
+RS,052439,Canelões V,17,4.5,125.0,150.0,200.0,88.4,Não,True
+RS,052441,Canelões VII,16,6.2,115.0,170.0,200.0,85.6,Não,True
+PB,057326,Frei Damião I,6,5.5,125.0,149.0,200.0,33.0,Não,False
+PB,057327,Frei Damião II,7,5.5,125.0,149.0,200.0,38.5,Não,False
+PB,057328,Frei Damião III,7,5.5,125.0,149.0,200.0,38.5,Não,False
+PB,057329,Frei Damião IV,6,5.5,125.0,149.0,200.0,33.0,Não,False
+PB,057330,Frei Damião V,6,5.5,125.0,149.0,200.0,33.0,Não,False
+RS,032473,Lagoa dos Barros I,4,5.6,120.0,160.0,200.0,22.24,Não,False
+RS,032474,Lagoa dos Barros II,4,5.6,120.0,160.0,200.0,22.24,Não,False
+RS,035205,Lagoa dos Barros III,4,5.6,120.0,160.0,200.0,22.24,Não,False
+BA,047208,Ventos de Santo Antônio 04,26,4.5,120.0,150.0,195.0,135.7,Não,True
+BA,051592,Ventos de Santo Antônio 05,11,6.2,115.0,170.0,200.0,68.2,Não,False
+BA,051595,Ventos de Santo Antônio 08,12,6.2,115.0,170.0,200.0,74.4,Não,False
+BA,051594,Ventos de Santo Antônio 07,12,6.2,115.0,170.0,200.0,74.4,Não,False
+BA,051593,Ventos de Santo Antônio 06,11,6.2,115.0,170.0,200.0,68.2,Não,False
+BA,051591,Ventos de Santa Luzia 17,24,6.2,115.0,170.0,200.0,148.8,Não,False
+BA,051590,Ventos de Santa Luzia 16,28,4.5,120.0,150.0,195.0,146.4,Não,True
+RN,047162,Oeste Seridó IX,6,4.2,105.0,150.0,180.0,25.2,Não,False
+RN,044974,Oeste Seridó I,11,4.2,105.0,150.0,180.0,47.7,Não,True
+BA,051585,Ventos de Santa Luzia 11,11,4.5,105.0,150.0,180.0,49.5,Não,False
+BA,032101,Facheio,6,2.7,89.0,122.0,150.0,16.2,Sim,False
+BA,032245,Manineiro,10,2.7,89.0,122.0,150.0,27.6,Sim,True
+RN,033691,Ventos de Santa Leia 05,15,4.5,90.0,150.0,165.0,67.5,Sim,False
+BA,033547,Ventos de São Januário 16,16,4.5,105.0,150.0,180.0,72.0,Sim,False
+PI,048514,Ventos de São Caio,8,4.4,120.0,150.0,195.0,35.2,Sim,False
+PI,048516,Ventos de São Ciro,16,4.4,120.0,150.0,195.0,71.2,Sim,False
+PI,048515,Ventos de São Ciriaco,11,4.4,120.0,150.0,195.0,48.4,Sim,False
+PB,049819,Serra da Palmeira II,10,6.0,115.0,170.0,200.0,60.0,Não,False
+PB,049823,Serra da Palmeira VI,8,6.0,115.0,170.0,200.0,48.0,Não,True
+PB,049818,Serra da Palmeira I,12,6.0,115.0,170.0,200.0,72.0,Não,True
+PB,049835,Serra da Palmeira XVIII,6,6.0,115.0,170.0,200.0,36.0,Não,False
+PB,049833,Serra da Palmeira XVI,12,6.0,115.0,170.0,200.0,72.0,Não,True
+PB,049836,Serra da Palmeira XIX,10,6.0,115.0,170.0,200.0,60.0,Não,True
+PB,049824,Serra da Palmeira VII,5,6.0,115.0,170.0,200.0,30.0,Não,False
+PB,049832,Serra da Palmeira XV,12,6.0,115.0,170.0,200.0,72.0,Não,True
+PB,049834,Serra da Palmeira XVII,5,6.0,115.0,170.0,200.0,30.0,Não,False
+PB,049837,Serra da Palmeira XX,8,6.0,115.0,170.0,200.0,48.0,Não,True
+PB,049820,Serra da Palmeira III,8,6.0,115.0,170.0,200.0,48.0,Não,False
+PB,049821,Serra da Palmeira IV,10,6.0,115.0,170.0,200.0,60.0,Não,True
+PB,049830,Serra da Palmeira XIII,14,6.0,115.0,170.0,200.0,84.0,Não,True
+PB,049825,Serra da Palmeira VIII,8,6.0,115.0,170.0,200.0,48.0,Não,True
+PB,049839,Serra da Palmeira XXII,8,6.0,115.0,170.0,200.0,48.0,Não,True
+PB,049826,Serra da Palmeira IX,8,6.0,115.0,170.0,200.0,48.0,Não,True
+PB,049822,Serra da Palmeira V,12,6.0,115.0,170.0,200.0,72.0,Não,True
+PB,049831,Serra da Palmeira XIV,4,6.0,115.0,170.0,200.0,24.0,Não,False
+PB,049838,Serra da Palmeira XXI,8,6.0,115.0,170.0,200.0,48.0,Não,True
+PB,049828,Serra da Palmeira XI,12,6.0,115.0,170.0,200.0,72.0,Não,True
+PB,049827,Serra da Palmeira X,10,6.0,115.0,170.0,200.0,60.0,Não,True
+PB,049829,Serra da Palmeira XII,8,6.0,115.0,170.0,200.0,48.0,Não,False
+PB,049840,Serra da Palmeira XXIII,12,6.0,115.0,170.0,200.0,72.0,Não,True
+RN,034937,Ventos de Santa Leia 03,30,4.5,90.0,150.0,165.0,135.0,Sim,False
+RN,033690,Ventos de Santa Leia 04,15,4.5,90.0,150.0,165.0,67.1,Sim,False
+PI,048704,Ventos de São Crispim,22,4.4,120.0,150.0,195.0,97.9,Sim,False
+PI,048512,Ventos de Santo Alderico,9,4.4,120.0,150.0,195.0,39.6,Sim,False
+PI,048511,Ventos de Santa Alexandrina,20,4.4,120.0,150.0,195.0,89.0,Sim,False
+PI,048517,Ventos de São João Paulo II,7,4.4,120.0,150.0,195.0,30.8,Sim,False
+PE,035249,Ventos de Santo Antero,22,4.4,120.0,150.0,195.0,97.9,Sim,False
+PE,035250,Ventos de São Bernardo,10,4.4,120.0,150.0,195.0,44.0,Sim,False
+PI,048513,Ventos de Santo Apolinário,16,4.4,120.0,150.0,195.0,70.4,Sim,False
+BA,053516,São Gabriel XII,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,053517,São Gabriel XIII,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,053518,São Gabriel XIV,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,053519,São Gabriel XV,8,6.0,115.0,170.0,200.0,48.0,Não,False
+RS,032145,Chicolomã,5,5.6,120.0,160.0,200.0,27.8,Não,False
+PB,032435,Picuí 4,11,4.5,125.0,150.0,200.0,49.5,Não,False
+PB,032438,Picuí 6,10,4.5,125.0,150.0,200.0,45.0,Não,False
+BA,037210,Casa Nova B,18,1.5,100.0,82.0,141.0,27.0,Não,False
+BA,034781,Serra das Almas VI,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,034780,Serra das Almas III,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,037086,Serra das Almas V,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,034779,Serra das Almas II,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,037084,Serra das Almas IV,8,5.7,120.0,163.0,202.0,45.6,Não,False
+RN,050152,Limoeiro III,9,4.2,120.0,150.0,195.0,37.8,Não,False
+RN,050151,Limoeiro II,9,4.2,120.0,150.0,195.0,37.8,Não,False
+RN,050154,Limoeiro V,11,4.2,120.0,150.0,195.0,46.2,Não,False
+RN,050150,Limoeiro I,10,4.2,120.0,150.0,195.0,42.0,Não,False
+RN,050153,Limoeiro IV,6,4.2,120.0,150.0,195.0,25.2,Não,False
+CE,049897,Ventos de Santa Rosália 07,10,4.2,120.0,150.0,195.0,42.0,Não,False
+CE,049896,Ventos de Santa Rosália 06,10,4.2,120.0,150.0,195.0,42.0,Não,False
+CE,049895,Ventos de Santa Rosália 05,10,4.2,120.0,150.0,195.0,42.0,Não,False
+CE,049898,Ventos de Santa Rosália 03,10,4.2,120.0,150.0,195.0,42.0,Não,False
+CE,049894,Ventos de Santa Rosália 04,10,4.2,120.0,150.0,195.0,42.0,Não,False
+CE,034749,Ventos de Santa Rosália 02,10,4.2,120.0,150.0,195.0,42.0,Não,False
+CE,034748,Ventos de Santa Rosália 01,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049924,Ventos de Santa Diana 11,11,4.2,105.0,150.0,180.0,46.2,Não,False
+BA,049923,Ventos de Santa Diana 10,11,4.2,105.0,150.0,180.0,46.2,Não,False
+BA,049922,Ventos de Santa Diana 09,10,4.2,105.0,150.0,180.0,42.0,Não,False
+BA,049921,Ventos de Santa Diana 08,10,4.2,105.0,150.0,180.0,42.0,Não,False
+BA,049920,Ventos de Santa Diana 07,10,4.2,105.0,150.0,180.0,42.0,Não,False
+BA,049919,Ventos de Santa Diana 06,9,4.2,105.0,150.0,180.0,37.8,Não,False
+BA,049918,Ventos de Santa Diana 05,10,4.2,105.0,150.0,180.0,42.0,Não,False
+BA,049917,Ventos de Santa Diana 04,10,4.2,105.0,150.0,180.0,42.0,Não,False
+BA,049916,Ventos de Santa Diana 03,10,4.2,105.0,150.0,180.0,42.0,Não,False
+BA,049915,Ventos de Santa Diana 02,10,4.2,105.0,150.0,180.0,42.0,Não,False
+BA,054336,Ventos de Santa Diana 01,11,4.2,105.0,150.0,180.0,46.2,Não,False
+BA,032417,Morro Branco II,9,3.5,84.0,132.0,150.0,31.18,Sim,False
+BA,044556,São Gabriel I,9,5.3,120.0,158.0,199.0,47.7,Não,False
+BA,044986,São Gabriel II,9,5.3,120.0,158.0,199.0,47.7,Não,False
+BA,044987,São Gabriel III,9,5.3,120.0,158.0,199.0,47.7,Não,False
+BA,054136,Tornado,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,054015,Alisios,3,6.0,115.0,170.0,200.0,18.0,Não,False
+BA,054127,Costa do Vento,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,054154,Mistral,2,6.0,115.0,170.0,200.0,12.0,Não,False
+BA,054140,Zonda,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,054098,Boreal,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,054131,Polar,2,6.0,115.0,170.0,200.0,12.0,Não,False
+BA,054155,Lips,2,6.0,115.0,170.0,200.0,12.0,Não,False
+BA,054141,Monção,3,6.0,115.0,170.0,200.0,18.0,Não,False
+BA,054134,Siroco,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,054137,Ventania,3,6.0,115.0,170.0,200.0,18.0,Não,False
+RN,051550,EVIII 2,5,4.5,125.0,150.0,200.0,22.5,Não,False
+RN,051551,EVIII 3,7,4.5,125.0,150.0,200.0,31.5,Não,False
+RN,051549,EVIII 1,5,4.5,125.0,150.0,200.0,22.5,Não,False
+RN,051552,EVIII 4,5,4.5,125.0,150.0,200.0,22.5,Não,False
+RN,051553,EVIII 5,2,4.5,125.0,150.0,200.0,9.0,Não,False
+RS,032236,Coxilha Negra 2,24,4.2,125.0,147.0,198.5,100.8,Não,False
+RS,032237,Coxilha Negra 3,25,4.2,125.0,147.0,198.5,105.0,Não,False
+RN,051568,Pedra de Amolar I,7,4.5,125.0,150.0,200.0,31.5,Não,False
+RN,051711,Pedra de Amolar II,7,4.5,125.0,150.0,200.0,31.5,Não,False
+RN,044338,EVI 2,7,4.5,125.0,150.0,200.0,31.5,Não,False
+RN,044337,EVI 1,7,4.5,125.0,150.0,200.0,31.5,Não,False
+RN,044343,EVII 1,7,4.5,125.0,150.0,200.0,31.5,Não,False
+CE,056916,Viçosa VII,13,6.0,135.0,170.0,220.0,78.0,Não,False
+CE,056914,Viçosa V,15,6.0,135.0,170.0,220.0,90.0,Não,False
+CE,056915,Viçosa VI,14,6.0,135.0,170.0,220.0,84.0,Não,False
+PB,043277,Serra do Seridó XIV,17,3.5,84.0,132.0,150.0,72.91,Não,True
+PB,043275,Serra do Seridó XI,10,3.5,84.0,132.0,150.0,34.65,Não,False
+CE,041921,Kairós Wind 6,9,4.5,123.0,150.0,198.0,40.5,Não,False
+CE,041922,Kairós Wind 2,8,4.5,123.0,150.0,198.0,36.0,Não,False
+CE,032485,Kairós Wind 1,8,4.5,123.0,150.0,198.0,36.0,Não,False
+PB,038304,Serra do Seridó VI,16,5.5,125.0,158.0,204.0,88.0,Não,False
+BA,044962,Aura Tanque Novo 02,4,4.5,110.0,155.0,188.0,18.0,Sim,False
+BA,044961,Aura Tanque Novo 01,6,4.5,110.0,155.0,188.0,27.0,Sim,False
+BA,035172,Aura Tanque Novo 03,3,4.5,110.0,155.0,188.0,13.5,Sim,False
+BA,051788,Assuruá 5 V,6,5.8,125.0,158.0,204.0,34.8,Não,False
+BA,051789,Assuruá 5 VI,6,5.8,125.0,158.0,204.0,34.8,Sim,True
+RN,032404,Mundo Novo VII,9,4.2,125.0,147.0,198.0,37.8,Não,False
+RN,032405,Mundo Novo VI,9,4.2,125.0,147.0,198.0,37.8,Não,False
+RN,033552,Mundo Novo V,6,4.2,125.0,147.0,198.0,25.2,Não,False
+RN,034499,Anemus Wind 2 ,11,4.2,125.0,147.0,198.0,46.2,Não,False
+RS,034733,Candiotinha,8,4.2,145.0,150.0,220.0,33.6,Não,False
+RS,034729,Invernada Pedra Grande,8,4.2,145.0,150.0,220.0,33.6,Não,False
+RS,034728,São João Batista,4,4.2,145.0,150.0,220.0,16.8,Não,False
+RS,034299,Serra do Veleda,8,4.2,145.0,150.0,220.0,33.6,Não,False
+RN,032199,AW Olho D’Água I,6,4.2,125.0,147.0,198.0,25.2,Não,False
+BA,072237,Serra do Estreito 1,3,3.5,84.0,132.0,150.0,10.39,Não,False
+BA,072236,Serra do Estreito 9,5,3.5,84.0,132.0,150.0,17.32,Não,False
+BA,072230,Serra do Estreito 3,6,3.5,84.0,132.0,150.0,20.79,Não,False
+BA,072231,Serra do Estreito 4,6,3.5,84.0,132.0,150.0,20.79,Não,False
+BA,072233,Serra do Estreito 6,9,3.5,84.0,132.0,150.0,31.18,Não,False
+BA,072234,Serra do Estreito 7,4,3.5,84.0,132.0,150.0,13.86,Não,False
+BA,072235,Serra do Estreito 8,28,3.5,84.0,132.0,150.0,97.02,Não,False
+BA,032804,Aura Caetité 03,16,4.5,110.0,155.0,188.0,72.0,Sim,False
+BA,044960,Aura Caetité 02,8,4.5,110.0,155.0,188.0,36.0,Sim,False
+BA,044959,Aura Caetité 01,6,4.5,110.0,155.0,188.0,27.0,Sim,False
+BA,032805,Aura Caetité 04,5,4.5,110.0,155.0,188.0,22.5,Sim,False
+RN,034498,Anemus Wind 1 ,9,4.2,125.0,147.0,198.0,37.8,Sim,False
+RN,047247,Cajuína A6,8,5.7,120.0,163.0,202.0,45.6,Sim,False
+RN,047244,Cajuína A5,18,5.7,120.0,163.0,202.0,102.6,Não,False
+PB,040615,Serra do Seridó X,13,5.5,125.0,158.0,204.0,73.3,Não,False
+PB,051574,Serra do Seridó XVI,9,5.5,125.0,158.0,204.0,49.5,Não,False
+PB,051575,Serra do Seridó XVII,7,5.5,125.0,158.0,204.0,38.5,Não,False
+RN,037294,Jerusalém I,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+PE,029019,Santa Maria,3,1.6,70.0,82.0,111.0,4.95,Sim,False
+RN,038035,Monte Verde IV,11,4.2,125.0,150.0,200.0,46.2,Sim,False
+RN,033881,Monte Verde III,14,4.2,125.0,150.0,200.0,58.8,Sim,False
+RN,032518,Monte Verde I,16,4.2,125.0,150.0,200.0,67.2,Sim,False
+RN,032519,Monte Verde II,16,4.2,125.0,150.0,200.0,67.2,Sim,False
+RN,037295,Jerusalém II,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+RN,037296,Jerusalém III,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+RN,037297,Jerusalém IV,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+RN,040584,Monte Verde V,8,4.2,125.0,150.0,200.0,33.6,Sim,False
+RN,037298,Jerusalém V,7,4.2,125.0,150.0,200.0,29.4,Sim,False
+RN,040818,Boqueirão II,9,4.2,125.0,150.0,200.0,37.8,Sim,False
+RN,040816,Boqueirão I,10,4.2,125.0,150.0,200.0,42.0,Sim,False
+RN,040585,Monte Verde VI,11,4.2,125.0,150.0,200.0,46.2,Sim,False
+RN,037299,Jerusalém VI,8,4.2,125.0,150.0,200.0,33.6,Sim,False
+PB,035227,Serra do Seridó IV,8,5.5,100.0,158.0,179.0,44.0,Sim,False
+PB,038305,Serra do Seridó VII,8,5.5,125.0,158.0,204.0,44.0,Sim,False
+BA,050466,Assuruá 4 IV,8,4.5,120.0,150.0,195.0,36.0,Sim,False
+BA,050464,Assuruá 4 II,7,4.5,120.0,150.0,195.0,31.5,Sim,False
+RN,047198,Cajuína A7,8,5.7,120.0,163.0,202.0,45.6,Sim,False
+BA,032113,Vellozia,12,2.7,89.0,122.0,150.0,33.0,Sim,True
+PI,038111,Ventos de São Roque 17,9,5.5,125.0,158.0,204.0,49.5,Sim,True
+PI,038112,Ventos de São Roque 18,9,5.5,101.0,158.0,180.0,49.5,Sim,True
+BA,032584,Tucano X,7,6.2,115.0,170.0,200.0,43.4,Sim,False
+BA,032568,Tucano III,7,6.2,115.0,170.0,200.0,43.4,Sim,False
+BA,036989,Tucano XVI,2,6.2,115.0,170.0,200.0,12.4,Sim,False
+BA,032580,Tucano VIII,8,6.2,115.0,170.0,200.0,49.6,Sim,False
+RN,033854,Santo Agostinho 14,1,6.2,115.0,170.0,200.0,6.2,Sim,False
+PE,031808,Ouro Branco 2,8,4.2,125.0,150.0,200.0,33.6,Sim,False
+PE,031809,Quatro Ventos,5,4.5,125.0,150.0,200.0,22.5,Sim,False
+PB,040613,Serra do Seridó IX,9,5.5,125.0,158.0,204.0,49.5,Sim,False
+BA,037101,Ventos de São Januário 19,16,4.5,105.0,150.0,180.0,72.0,Sim,False
+RN,033681,Ventos de Santa Leia 02,30,4.5,90.0,150.0,165.0,135.0,Sim,False
+PB,035225,Serra do Seridó II,6,5.5,125.0,158.0,204.0,33.0,Sim,False
+BA,049423,Ventos de Santa Luzia 10,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049422,Ventos de Santa Luzia 09,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049421,Ventos de Santa Luzia 08,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049420,Ventos de Santa Luzia 07,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049419,Ventos de Santa Luzia 06,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049418,Ventos de Santa Luzia 05,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049417,Ventos de Santa Luzia 04,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049416,Ventos de Santa Luzia 03,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049399,Ventos de Santa Luzia 02,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,049398,Ventos de Santa Luzia 01,10,4.2,120.0,150.0,195.0,42.0,Não,False
+BA,050844,Morro 1,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,050845,Morro 2,6,5.7,120.0,163.0,202.0,34.2,Não,False
+RN,049664,Ventos de São Rafael 01,30,4.2,120.0,150.0,195.0,130.5,Não,True
+RN,049665,Ventos de São Rafael 02,31,4.2,120.0,150.0,195.0,134.4,Não,True
+RN,049666,Ventos de São Rafael 03,30,4.2,120.0,150.0,195.0,130.2,Não,True
+RN,049667,Ventos de São Rafael 04,29,4.2,120.0,150.0,195.0,126.0,Não,True
+RN,049668,Ventos de São Rafael 05,29,4.2,120.0,150.0,195.0,126.0,Não,True
+RN,049669,Ventos de São Rafael 06,28,4.2,120.0,150.0,195.0,121.5,Não,True
+RN,049670,Ventos de São Rafael 07,29,4.2,120.0,150.0,195.0,126.0,Não,True
+RN,049671,Ventos de São Rafael 08,29,4.2,120.0,150.0,195.0,126.0,Não,True
+RN,050015,Ventos de São Rafael 09,15,4.2,105.0,150.0,180.0,63.0,Não,False
+RN,050016,Ventos de São Rafael 10,28,4.2,105.0,150.0,180.0,121.5,Não,True
+RN,050017,Ventos de São Rafael 11,15,4.2,105.0,150.0,180.0,63.0,Não,False
+RN,032080,AW São João,6,4.2,125.0,147.0,198.0,25.2,Sim,False
+BA,051786,Assuruá 5 III,7,5.8,101.0,158.0,180.0,40.6,Sim,False
+RS,034820,São Manoel,14,4200.0,145.0,150.0,220.0,50408.4,Não,False
+PB,035207,Picuí 10,7,4.5,125.0,150.0,200.0,31.5,Não,False
+RS,072265,Gran Sul 8,8,6.2,119.0,162.0,200.0,49.6,Não,False
+RS,072266,Gran Sul 9,7,6.2,119.0,162.0,200.0,43.4,Não,False
+PB,032439,Picuí 7,11,4.5,125.0,150.0,200.0,49.5,Não,False
+CE,038059,Serra da Ibiapaba V,9,5.5,101.0,158.0,180.0,49.5,Não,False
+CE,038063,Serra da Ibiapaba IX,6,5.5,101.0,158.0,180.0,33.0,Não,False
+CE,038061,Serra da Ibiapaba VII,8,5.5,101.0,158.0,180.0,44.0,Não,False
+CE,038062,Serra da Ibiapaba VIII,7,5.5,101.0,158.0,180.0,38.5,Não,False
+CE,038058,Serra da Ibiapaba IV,9,5.5,101.0,158.0,180.0,49.5,Não,False
+CE,038060,Serra da Ibiapaba VI,7,5.5,101.0,158.0,180.0,38.5,Não,False
+CE,038057,Serra da Ibiapaba III,8,5.5,101.0,158.0,180.0,44.0,Não,False
+CE,038056,Serra da Ibiapaba II,8,5.5,101.0,158.0,180.0,44.0,Não,False
+CE,038055,Serra da Ibiapaba I,8,5.5,101.0,158.0,180.0,44.0,Não,False
+BA,049142,Pedra Pintada I,11,4.5,120.0,150.0,195.0,49.5,Não,False
+BA,049143,Pedra Pintada II,11,4.5,120.0,150.0,195.0,49.5,Não,False
+BA,049144,Pedra Pintada III,10,4.5,120.0,150.0,195.0,45.0,Não,False
+PE,049354,Serra das Vacas B,9,4.5,120.0,150.0,195.0,40.5,Não,False
+RN,047164,Oeste Seridó X,6,4.5,90.0,150.0,165.0,27.0,Não,False
+RN,044976,Oeste Seridó III,6,4.5,90.0,150.0,165.0,27.0,Não,False
+RN,051586,Ventos de Santa Luzia 12,24,4.5,105.0,150.0,180.0,108.0,Não,False
+RN,051587,Ventos de Santa Luzia 13,12,4.5,105.0,150.0,180.0,54.0,Não,False
+RN,047246,Cajuína B18,8,5.7,120.0,163.0,202.0,45.6,Não,False
+RN,049179,Cajuína B13,16,5.7,120.0,163.0,202.0,91.2,Não,False
+RN,043219,Catanduba RN II,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RN,043218,Catanduba RN I,22,4.5,125.0,150.0,200.0,99.0,Não,False
+BA,047088,Castanheira 08,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,047089,Castanheira 09,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,047090,Castanheira 10,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,047087,Castanheira 07,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,047091,Castanheira 11,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,047086,Castanheira 06,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,047080,Castanheira 21,6,4.2,125.0,150.0,200.0,25.2,Não,False
+BA,047092,Castanheira 12,6,4.2,125.0,150.0,200.0,25.2,Não,False
+BA,047085,Castanheira 05,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,047096,Castanheira 20,6,4.2,125.0,150.0,200.0,25.2,Não,False
+BA,047093,Castanheira 13,6,4.2,125.0,150.0,200.0,25.2,Não,False
+BA,047084,Castanheira 04,4,4.2,125.0,150.0,200.0,16.8,Não,False
+BA,047095,Castanheira 19,6,4.2,125.0,150.0,200.0,25.2,Não,False
+BA,072487,Castanheira 14,6,4.2,125.0,150.0,200.0,25.2,Não,False
+BA,047081,Castanheira 01,4,4.2,125.0,150.0,200.0,16.8,Não,False
+BA,047083,Castanheira 03,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,047094,Castanheira 18,7,4.2,125.0,150.0,200.0,29.4,Não,False
+BA,072488,Castanheira 15,5,4.2,125.0,150.0,200.0,21.0,Não,False
+BA,072490,Castanheira 17,8,4.2,125.0,150.0,200.0,33.6,Não,False
+BA,072489,Castanheira 16,5,4.2,125.0,150.0,200.0,21.0,Não,False
+BA,037213,Casa Nova E,18,1.5,100.0,82.0,141.0,27.0,Não,False
+BA,037215,Casa Nova G,18,1.5,100.0,82.0,141.0,27.0,Não,False
+BA,037214,Casa Nova F,16,1.5,100.0,82.0,141.0,24.0,Não,False
+BA,037212,Casa Nova D,15,1.5,100.0,82.0,141.0,22.5,Não,False
+RS,038011,Gran Sul 5,8,6.2,119.0,162.0,200.0,49.6,Não,False
+RS,038009,Gran Sul 3,6,6.2,119.0,162.0,200.0,37.2,Não,False
+RS,038010,Gran Sul 4,8,6.2,119.0,162.0,200.0,49.6,Não,False
+RS,072202,Gran Sul 7,5,6.2,119.0,162.0,200.0,31.0,Não,False
+RS,072201,Gran Sul 6,6,6.2,119.0,162.0,200.0,37.2,Não,False
+RS,038008,Gran Sul 2,8,6.2,119.0,162.0,200.0,49.6,Não,False
+RS,038007,Gran Sul 1,9,6.2,119.0,162.0,200.0,55.8,Não,False
+RS,055349,Electra Ventos do Sul I,6,4.2,125.0,147.0,198.0,25.2,Não,False
+RS,055350,Electra Ventos do Sul II,5,4.2,125.0,147.0,198.0,21.0,Não,False
+RS,055352,Electra Ventos do Sul IV,6,4.2,125.0,147.0,198.0,25.2,Não,False
+RS,055351,Electra Ventos do Sul III,6,4.2,125.0,147.0,198.0,25.2,Não,False
+RS,055353,Electra Ventos do Sul V,6,4.2,125.0,147.0,198.0,25.2,Não,False
+RN,044344,EVII 2,6,4.5,125.0,150.0,200.0,27.0,Não,False
+CE,051559,Fênix G,8,5.3,126.0,158.0,205.0,42.4,Não,False
+CE,051561,Fênix I,7,5.3,126.0,158.0,205.0,37.1,Não,False
+CE,054328,Fênix F,8,5.3,126.0,158.0,205.0,42.4,Não,False
+CE,051560,Fênix H,6,5.3,126.0,158.0,205.0,31.8,Não,False
+CE,051556,Fênix C,9,5.3,126.0,158.0,205.0,47.7,Não,False
+CE,051557,Fênix D,7,5.3,126.0,158.0,205.0,37.1,Não,False
+CE,051558,Fênix E,5,5.3,126.0,158.0,205.0,26.5,Não,False
+CE,051555,Fênix B,7,5.3,101.0,158.0,180.0,37.1,Não,False
+CE,051564,Fênix L,5,5.3,126.0,158.0,205.0,26.5,Não,False
+CE,051563,Fênix K,6,5.3,126.0,158.0,205.0,31.8,Não,False
+CE,051562,Fênix J,8,5.3,126.0,158.0,205.0,42.4,Não,False
+CE,051554,Fênix A,7,5.3,101.0,158.0,180.0,37.1,Não,False
+PI,047172,Delta 10 VI,7,6.2,115.0,170.0,200.0,43.4,Não,False
+PI,047171,Delta 10 V,7,6.2,115.0,170.0,200.0,43.4,Não,False
+PI,047170,Delta 10 IV,8,6.2,115.0,170.0,200.0,49.6,Não,False
+PI,047167,Delta 10 I,8,6.2,115.0,170.0,200.0,49.6,Não,False
+PI,047169,Delta 10 III,8,6.2,115.0,170.0,200.0,49.6,Não,False
+PI,047168,Delta 10 II,8,6.2,115.0,170.0,200.0,49.6,Não,False
+MA,037025,Delta 4 II,7,6.2,115.0,170.0,200.0,43.4,Não,False
+MA,049854,Delta 9I,7,6.2,115.0,170.0,200.0,43.4,Não,False
+MA,037024,Delta 4 I,7,6.2,115.0,170.0,200.0,43.4,Não,False
+BA,037085,Serra das Almas IX,3,6.2,115.0,170.0,200.0,18.6,Não,False
+BA,050999,Serra das Almas XXVIII,5,6.2,115.0,170.0,200.0,31.0,Não,False
+RN,049411,São José I,7,6.2,135.0,170.0,220.0,43.4,Não,True
+RN,049412,São José II,8,6.2,135.0,170.0,220.0,49.6,Não,False
+CE,058116,Ibiapaba Norte VIII,6,5.8,125.0,158.0,204.0,34.8,Não,False
+CE,050301,Ventos de Acaraú 6,9,6.2,135.0,170.0,220.0,55.8,Não,False
+CE,050305,Ventos de Acaraú 10,8,6.2,135.0,170.0,220.0,49.6,Não,False
+CE,050308,Ventos de Acaraú 13,7,6.2,135.0,170.0,220.0,43.4,Não,False
+CE,050300,Ventos de Acaraú 5,6,6.2,135.0,170.0,220.0,37.2,Não,False
+CE,050304,Ventos de Acaraú 9,5,6.2,135.0,170.0,220.0,31.0,Não,False
+CE,050296,Ventos de Acaraú 1,8,6.2,135.0,170.0,220.0,49.6,Não,False
+CE,050307,Ventos de Acaraú 12,8,6.2,135.0,170.0,220.0,49.6,Não,False
+CE,050303,Ventos de Acaraú 8,5,6.2,135.0,170.0,220.0,31.0,Não,False
+CE,050299,Ventos de Acaraú 4,9,6.2,135.0,170.0,220.0,55.8,Não,False
+CE,050302,Ventos de Acaraú 7,5,6.2,135.0,170.0,220.0,31.0,Não,False
+CE,052285,Ventos de Acaraú 2,7,6.2,110.0,170.0,195.0,43.4,Não,False
+CE,050298,Ventos de Acaraú 3,9,6.2,135.0,170.0,220.0,55.8,Não,False
+CE,050306,Ventos de Acaraú 11,6,6.2,135.0,170.0,220.0,37.2,Não,False
+CE,050309,Ventos de Acaraú 14,8,6.2,135.0,170.0,220.0,49.6,Não,False
+BA,066061,Ventos de Santa Patrícia 12,12,6.2,115.0,170.0,200.0,74.4,Não,False
+BA,066063,Ventos de Santa Patrícia 14,12,6.2,115.0,170.0,200.0,74.4,Não,False
+BA,066062,Ventos de Santa Patrícia 13,12,6.2,115.0,170.0,200.0,74.4,Não,False
+BA,047207,Ventos de Santo Antônio 03,12,4.2,120.0,150.0,195.0,50.4,Não,False
+BA,047206,Ventos de Santo Antônio 02,12,4.2,120.0,150.0,195.0,50.4,Não,False
+BA,051596,Ventos de Santo Antônio 09,12,4.2,120.0,150.0,195.0,50.4,Não,False
+PI,061537,Ventos de Santa Rosa 17,11,4.2,120.0,150.0,195.0,46.2,Não,False
+PI,071786,Ventos de Santa Rosa 16,10,4.2,120.0,150.0,195.0,42.0,Não,False
+PI,049790,Ventos de Santo Elias 10,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049792,Ventos de Santo Elias 12,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049787,Ventos de Santo Elias 07,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049791,Ventos de Santo Elias 11,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049788,Ventos de Santo Elias 08,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049786,Ventos de Santo Elias 06,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049785,Ventos de Santo Elias 05,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049789,Ventos de Santo Elias 09,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049784,Ventos de Santo Elias 04,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049783,Ventos de Santo Elias 03,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,049782,Ventos de Santo Elias 02,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,071622,Ventos de São Hugo 04,11,5.5,125.0,158.0,204.0,60.5,Não,False
+PI,071621,Ventos de São Hugo 03,11,5.5,125.0,158.0,204.0,60.5,Não,False
+PI,049781,Ventos de Santo Elias 01,10,5.5,125.0,158.0,204.0,55.0,Não,False
+PI,071619,Ventos de São Hugo 01,11,5.5,125.0,158.0,204.0,60.5,Não,False
+PI,071620,Ventos de São Hugo 02,11,5.5,125.0,158.0,204.0,60.5,Não,False
+PI,050094,Ventos de São João 03,8,4.2,105.0,150.0,180.0,33.6,Não,False
+PI,050093,Ventos de São João 02,9,4.2,105.0,150.0,180.0,37.8,Não,False
+PE,050092,Ventos de São João 01,9,4.2,105.0,150.0,180.0,37.8,Não,False
+PB,072869,Ventos de São Salomão 09,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072870,Ventos de São Salomão 10,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072868,Ventos de São Salomão 08,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072865,Ventos de São Salomão 05,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072864,Ventos de São Salomão 04,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072867,Ventos de São Salomão 07,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072866,Ventos de São Salomão 06,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072863,Ventos de São Salomão 03,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072862,Ventos de São Salomão 02,15,4.2,120.0,150.0,195.0,63.0,Não,False
+PB,072861,Ventos de São Salomão 01,15,4.2,120.0,150.0,195.0,63.0,Não,False
+RN,072068,Ventos de São Rafael 19,10,6.2,115.0,170.0,200.0,62.0,Não,False
+RN,072067,Ventos de São Rafael 18,10,6.2,115.0,170.0,200.0,62.0,Não,False
+RN,072066,Ventos de São Rafael 17,10,6.2,115.0,170.0,200.0,62.0,Não,False
+RN,050018,Ventos de São Rafael 12,15,4.2,105.0,150.0,180.0,63.0,Não,False
+RN,050021,Ventos de São Rafael 15,15,4.2,105.0,150.0,180.0,63.0,Não,False
+RN,050022,Ventos de São Rafael 16,15,4.2,105.0,150.0,180.0,63.0,Não,False
+RN,050020,Ventos de São Rafael 14,15,4.2,105.0,150.0,180.0,63.0,Não,False
+RN,050019,Ventos de São Rafael 13,15,4.2,105.0,150.0,180.0,63.0,Não,False
+BA,044357,LDA 20,6,6.2,120.0,170.0,205.0,37.2,Não,False
+BA,044356,LDA 19,7,6.2,120.0,170.0,205.0,43.4,Não,False
+BA,044355,LDA 18,6,6.2,120.0,170.0,205.0,37.2,Não,False
+BA,044354,LDA 12,8,6.2,120.0,170.0,205.0,49.6,Não,False
+BA,044352,LDA 10,7,6.2,120.0,170.0,205.0,43.4,Não,False
+BA,044351,LDA 09,7,6.2,120.0,170.0,205.0,43.4,Não,False
+BA,044353,LDA 11,7,6.2,120.0,170.0,205.0,43.4,Não,False
+BA,044350,LDA 08,7,6.2,120.0,170.0,205.0,43.4,Não,False
+BA,060199,Assuruá 6 VIII,7,5.2,126.0,158.0,205.0,36.54,Não,False
+BA,060198,Assuruá 6 VII,6,5.2,126.0,158.0,205.0,31.32,Não,False
+BA,060197,Assuruá 6 VI,7,5.2,126.0,158.0,205.0,36.54,Não,False
+BA,060196,Assuruá 6 V,6,5.2,126.0,158.0,205.0,31.32,Não,False
+BA,060202,Assuruá 6 XIV,7,5.2,126.0,158.0,205.0,36.54,Não,False
+BA,060195,Assuruá 6 IV,6,5.2,126.0,158.0,205.0,31.32,Não,False
+BA,060201,Assuruá 6 XIII,7,5.2,126.0,158.0,205.0,36.54,Não,False
+BA,058118,Assuruá 6 III,6,5.2,126.0,158.0,205.0,31.32,Não,False
+BA,058117,Assuruá 6 II,7,5.2,126.0,158.0,205.0,36.54,Não,False
+BA,060200,Assuruá 6 XII,6,5.2,126.0,158.0,205.0,31.32,Não,False
+BA,060194,Assuruá 6 I,7,5.2,126.0,158.0,205.0,36.54,Não,False
+BA,057138,Paripiranga III,8,6.0,115.0,170.0,200.0,48.0,Não,False
+BA,057141,Paripiranga VI,8,6.0,115.0,170.0,200.0,48.0,Não,False
+BA,057140,Paripiranga V,6,6.0,115.0,170.0,200.0,36.0,Não,False
+BA,051567,Paripiranga I,5,6.0,115.0,170.0,200.0,30.0,Não,False
+BA,057137,Paripiranga II,7,6.0,115.0,170.0,200.0,42.0,Não,False
+BA,057139,Paripiranga IV,8,6.0,115.0,170.0,200.0,48.0,Não,False
+CE,057876,Ibiapaba Norte VII,8,5.8,125.0,158.0,204.0,46.4,Não,False
+CE,057875,Ibiapaba Norte VI,6,5.8,125.0,158.0,204.0,34.8,Não,False
+CE,057874,Ibiapaba Norte V,8,5.8,125.0,158.0,204.0,46.4,Não,False
+CE,057873,Ibiapaba Norte IV,6,5.8,125.0,158.0,204.0,34.8,Não,False
+CE,057872,Ibiapaba Norte III,8,5.8,125.0,158.0,204.0,46.4,Não,False
+CE,057871,Ibiapaba Norte II,8,5.8,125.0,158.0,204.0,46.4,Não,False
+CE,057870,Ibiapaba Norte I,8,5.8,125.0,158.0,204.0,46.4,Não,False
+RS,052142,Três Divisas 1,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,052143,Três Divisas 2,9,4.5,125.0,150.0,200.0,40.5,Não,False
+RS,052145,Três Divisas 4,10,4.5,125.0,150.0,200.0,45.0,Não,False
+RS,052146,Três Divisas 5,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,052158,Três Divisas 12,10,4.5,125.0,150.0,200.0,45.0,Não,False
+RS,052157,Três Divisas 11,10,4.5,125.0,150.0,200.0,45.0,Não,False
+RS,052144,Três Divisas 3,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,052159,Três Divisas 13,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,052160,Três Divisas 14,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,052155,Três Divisas 9,10,4.5,125.0,150.0,200.0,45.0,Não,False
+RS,052161,Três Divisas 15,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,052147,Três Divisas 6,10,4.5,125.0,150.0,200.0,45.0,Não,False
+RS,052162,Três Divisas 16,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,052151,Três Divisas 8,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,052156,Três Divisas 10,10,4.5,125.0,150.0,200.0,45.0,Não,False
+RS,052163,Três Divisas 17,9,4.5,125.0,150.0,200.0,40.5,Não,False
+RS,052164,Três Divisas 18,7,4.5,125.0,150.0,200.0,31.5,Não,False
+BA,050997,Serra das Almas XXV,5,6.2,115.0,170.0,200.0,31.0,Não,False
+BA,051014,Serra das Almas XLIV,4,6.2,115.0,170.0,200.0,24.8,Não,False
+BA,050996,Serra das Almas XXIV,5,6.2,115.0,170.0,200.0,31.0,Não,False
+BA,050991,Serra das Almas XIX,5,6.2,115.0,170.0,200.0,31.0,Não,False
+BA,051002,Serra das Almas XXXI,5,6.2,115.0,170.0,200.0,31.0,Não,False
+BA,050995,Serra das Almas XXIII,3,6.2,115.0,170.0,200.0,18.6,Não,False
+BA,051000,Serra das Almas XXIX,6,6.2,115.0,170.0,200.0,37.2,Não,False
+BA,050994,Serra das Almas XXII,4,6.2,115.0,170.0,200.0,24.8,Não,False
+BA,050998,Serra das Almas XXVII,4,6.2,115.0,170.0,200.0,24.8,Não,False
+BA,050993,Serra das Almas XXI,4,6.2,115.0,170.0,200.0,24.8,Não,False
+RN,034723,Santa Benvinda II,5,5.5,125.0,158.0,204.0,27.5,Não,False
+RN,034719,Pau DArco,5,5.5,125.0,158.0,204.0,27.5,Não,False
+RN,034720,Pedra Rosada I,5,5.5,125.0,158.0,204.0,27.5,Não,False
+RN,034724,Pau Branco,5,5.5,125.0,158.0,204.0,27.5,Não,False
+RN,034551,Boa Vista II,5,5.5,125.0,158.0,204.0,27.5,Não,False
+RN,034550,Boa Vista I,5,5.5,125.0,158.0,204.0,27.5,Não,False
+RN,060205,Jandaíra II Ventos,5,5.5,125.0,158.0,204.0,27.5,Não,False
+RN,034541,Milagres,5,5.5,125.0,158.0,204.0,27.5,Não,False
+RN,060204,Jandaíra Ventos,5,5.5,125.0,158.0,204.0,27.5,Não,False
+BA,051973,Ventos de Santa Bibiana 07,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,051977,Ventos de Santa Bibiana 11,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,051980,Ventos de Santa Bibiana 14,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,072819,Ventos de Santa Bibiana 16,8,4.2,120.0,150.0,195.0,33.6,Não,False
+PI,072888,Terra dos Ventos 17,6,6.6,115.0,170.0,200.0,39.6,Não,False
+BA,051967,Ventos de Santa Bibiana 01,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,051970,Ventos de Santa Bibiana 04,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,051968,Ventos de Santa Bibiana 02,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,051971,Ventos de Santa Bibiana 05,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,051969,Ventos de Santa Bibiana 03,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,051972,Ventos de Santa Bibiana 06,14,4.2,120.0,150.0,195.0,58.8,Não,False
+MG,058075,Gameleiras 12,6,4.5,90.0,150.0,165.0,27.0,Não,False
+PE,031807,Ouro Branco 1,8,4.5,125.0,150.0,200.0,36.0,Sim,False
+BA,034811,Ventos de São Vitor 02,5,6.2,119.0,170.0,204.0,31.0,Não,False
+BA,032642,Ventos de São Januário 15,16,4.5,105.0,150.0,180.0,72.0,Sim,False
+BA,033548,Ventos de São Januário 17,32,4.5,105.0,150.0,180.0,144.0,Sim,False
+BA,033549,Ventos de São Januário 18,32,4.5,105.0,150.0,180.0,144.0,Sim,False
+BA,044360,Oitis 21,8,5.5,126.0,158.0,205.0,44.0,Sim,False
+BA,032567,Tucano II,4,6.2,115.0,170.0,200.0,24.8,Sim,False
+RN,033864,Acauã III,4,4.2,125.0,147.0,198.0,16.8,Sim,False
+RN,035216,Santo Agostinho 27,6,6.2,115.0,170.0,200.0,37.2,Sim,False
+RN,035215,Santo Agostinho 26,7,6.2,115.0,170.0,200.0,43.4,Sim,False
+RN,045012,Ventos de Santa Leia 14,15,4.5,90.0,150.0,165.0,66.1,Sim,False
+RN,032194,AW Santa Régia,9,4.2,125.0,147.0,198.0,37.8,Sim,False
+PI,038105,Ventos de São Roque 03,8,5.7,120.0,163.0,202.0,45.6,Sim,False
+PI,038107,Ventos de São Roque 05,8,5.7,120.0,163.0,202.0,45.6,Sim,False
+PI,038108,Ventos de São Roque 06,8,5.7,120.0,163.0,202.0,45.6,Sim,False
+RN,032593,Ventos de Santa Leia 01,30,4.5,90.0,150.0,165.0,135.0,Sim,False
+RN,049180,Cajuína B9,6,5.7,120.0,163.0,202.0,34.2,Sim,False
+BA,051787,Assuruá 5 IV,8,5.8,101.0,158.0,180.0,46.4,Sim,False
+BA,051785,Assuruá 5 II,8,5.8,101.0,158.0,180.0,46.4,Sim,False
+BA,051784,Assuruá 5 I,14,5.8,101.0,158.0,180.0,81.2,Sim,False
+RN,047239,Cajuína A4,8,5.7,120.0,163.0,202.0,45.6,Sim,False
+RN,047237,Cajuína A3,8,5.7,120.0,163.0,202.0,45.6,Sim,False
+RN,047236,Cajuína A2,14,5.7,120.0,163.0,202.0,79.8,Sim,False
+RN,047235,Cajuína A1,14,5.7,120.0,163.0,202.0,79.8,Sim,False
+BA,034809,Ventos de São Vitor 01,5,6.2,119.0,170.0,204.0,31.0,Não,False
+BA,034838,Ventos de São Vitor 07,7,6.2,119.0,170.0,204.0,43.4,Sim,False
+BA,034778,Serra das Almas I,18,4.5,90.0,150.0,165.0,81.0,Não,False
+BA,049145,Pedra Pintada IV,22,4.5,120.0,150.0,195.0,99.0,Não,False
+RN,034612,Passagem,9,5.7,120.0,163.0,202.0,51.3,Não,False
+RN,049170,Cajuína B19,4,5.9,120.0,163.0,202.0,23.6,Não,False
+RN,049171,Cajuína B20,5,5.9,120.0,163.0,202.0,29.5,Não,False
+BA,046757,Canudos I,14,3.5,90.0,132.0,156.0,49.0,Sim,False
+RN,033964,Baixa do Sítio,11,4.2,125.0,147.0,198.5,46.2,Sim,False
+BA,047205,Ventos de Santo Antônio 01,10,4.5,105.0,150.0,180.0,45.0,Sim,False
+RN,049173,Cajuína B15,14,5.7,120.0,163.0,202.0,79.8,Não,False
+RN,033835,Santo Agostinho 4,6,6.2,115.0,170.0,200.0,37.2,Não,False
+RN,047238,Cajuína B12,7,5.7,120.0,163.0,202.0,39.9,Sim,False
+RN,047166,Oeste Seridó V,5,4.5,90.0,150.0,165.0,22.5,Sim,False
+RN,049172,Cajuína B14,9,5.7,120.0,163.0,202.0,51.3,Não,False
+RN,047160,Oeste Seridó XII,14,4.5,90.0,150.0,165.0,63.0,Sim,False
+PB,043276,Serra do Seridó XII,14,5.8,125.0,158.0,204.0,81.2,Sim,False
+BA,034659,Ventos de São Vitor 12,5,6.2,119.0,170.0,204.0,31.0,Sim,False
+RN,047163,Oeste Seridó VI,4,4.5,90.0,150.0,165.0,18.0,Sim,False
+RN,047161,Oeste Seridó XI,6,4.5,90.0,150.0,165.0,27.0,Sim,False
+RN,047241,Cajuína B11,24,5.7,120.0,163.0,202.0,136.8,Não,False
+RN,044975,Oeste Seridó II,10,4.5,90.0,150.0,165.0,45.0,Sim,False
+RN,047165,Oeste Seridó IV,6,4.5,90.0,150.0,165.0,27.0,Sim,False
+PE,073524,Buíque II,6,4.5,125.0,150.0,200.0,27.0,Não,False
+PE,073523,Buíque I,8,4.5,125.0,150.0,200.0,36.0,Não,False
+PE,073525,Buíque III,4,4.5,125.0,150.0,200.0,18.0,Não,False
+PE,073529,Buíque VII,7,4.5,125.0,150.0,200.0,31.5,Não,False
+PE,073526,Buíque IV,7,4.5,125.0,150.0,200.0,31.5,Não,False
+PE,073528,Buíque VI,4,4.5,125.0,150.0,200.0,18.0,Não,False
+PE,073530,Buíque VIII,7,4.5,125.0,150.0,200.0,31.5,Não,False
+PE,073527,Buíque V,7,4.5,125.0,150.0,200.0,31.5,Não,False
+PE,073522,Buíque IX,4,4.5,125.0,150.0,200.0,18.0,Não,False
+PE,073533,Buíque XII,5,4.5,125.0,150.0,200.0,22.5,Não,False
+PE,073532,Buíque XI,6,4.5,125.0,150.0,200.0,27.0,Não,False
+PE,073531,Buíque X,5,4.5,125.0,150.0,200.0,22.5,Não,False
+RS,072942,São Miguel VIII,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,072940,São Miguel VI,10,4.5,125.0,150.0,200.0,45.0,Não,False
+RS,072941,São Miguel VII,8,4.5,125.0,150.0,200.0,36.0,Não,False
+RS,072939,São Miguel V,10,4.5,125.0,150.0,200.0,45.0,Não,False
+RS,072937,São Miguel III,11,4.5,125.0,150.0,200.0,49.5,Não,False
+RS,072938,São Miguel IV,8,4.5,125.0,150.0,200.0,36.0,Não,False
+RS,072936,São Miguel II,6,4.5,125.0,150.0,200.0,27.0,Não,False
+RS,072935,São Miguel I,14,4.5,125.0,150.0,200.0,63.0,Não,False
+BA,044951,Aroeira 06,9,4.3,90.0,150.0,165.0,38.7,Sim,False
+BA,038077,Ventos de Santa Eugênia 01,9,5.7,120.0,163.0,202.0,51.3,Não,False
+BA,038079,Ventos de Santa Eugênia 03,7,5.7,120.0,163.0,202.0,39.9,Sim,False
+BA,038081,Ventos de Santa Eugênia 05,6,5.7,120.0,163.0,202.0,34.2,Sim,False
+BA,038082,Ventos de Santa Eugênia 06,6,5.7,120.0,163.0,202.0,34.2,Não,False
+BA,038088,Ventos de Santa Eugênia 12,7,5.7,120.0,163.0,202.0,39.9,Sim,False
+BA,038086,Ventos de Santa Eugênia 10,8,5.7,120.0,163.0,202.0,45.6,Sim,False
+BA,038087,Ventos de Santa Eugênia 11,5,5.7,120.0,163.0,202.0,28.5,Não,False
+BA,044948,Aroeira 03,10,4.3,90.0,150.0,165.0,43.0,Sim,False
+BA,044947,Aroeira 02,10,4.3,90.0,150.0,165.0,43.0,Sim,False
+BA,044949,Aroeira 04,10,4.3,90.0,150.0,165.0,43.0,Sim,False
+BA,044940,Aroeira 01,11,4.3,90.0,150.0,165.0,47.3,Sim,False
+BA,044950,Aroeira 05,10,4.3,90.0,150.0,165.0,43.0,Sim,False
+BA,044953,Aroeira 08,10,4.3,90.0,150.0,165.0,43.0,Sim,False
+BA,044952,Aroeira 07,11,4.3,90.0,150.0,165.0,47.3,Sim,False
+BA,050915,Ventos de São Vitorino VII,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,050914,Ventos de São Vitorino IV,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,050913,Ventos de São Vitorino II,9,5.7,120.0,163.0,202.0,51.3,Não,False
+BA,050912,Ventos de São Vitorino I,8,5.7,120.0,163.0,202.0,45.6,Não,False
+BA,050069,Ventos de Santa Dulce 09,14,6.2,115.0,170.0,200.0,86.8,Não,False
+BA,050068,Ventos de Santa Dulce 08,14,6.2,115.0,170.0,200.0,86.8,Não,False
+BA,050067,Ventos de Santa Dulce 07,14,6.2,115.0,170.0,200.0,86.8,Não,False
+BA,050066,Ventos de Santa Dulce 06,14,6.2,115.0,170.0,200.0,86.8,Não,False
+BA,049808,Ventos de Santa Patrícia 10,11,6.2,115.0,170.0,200.0,68.2,Não,False
+BA,049986,Ventos de São Paulo 03,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,049985,Ventos de São Paulo 02,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,049989,Ventos de São Paulo 06,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,049987,Ventos de São Paulo 04,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,049988,Ventos de São Paulo 05,14,4.2,120.0,150.0,195.0,58.8,Não,False
+BA,049809,Ventos de Santa Patrícia 11,10,6.2,115.0,170.0,200.0,62.0,Não,False
+BA,049984,Ventos de São Paulo 01,14,4.2,120.0,150.0,195.0,58.8,Não,False
+MG,056673,Juramento 6,8,0.0,115.0,170.0,200.0,0.05,Não,False
+BA,038102,Ventos de Santa Inês 12,10,0.0,120.0,150.0,195.0,0.04,Não,False
+PI,047188,Ventos de Santa Rosa 05,12,0.0,120.0,150.0,195.0,0.05,Não,False
+PI,047185,Ventos de Santa Rosa 02,12,0.0,120.0,150.0,195.0,0.05,Não,False
+PE,038134,Ventos de São Zacarias 09,8,5.7,115.0,170.0,200.0,45.6,,False
+PI,038128,Ventos de São Zacarias 03,16,5.7,115.0,170.0,200.0,91.2,,True
+PI,038131,Ventos de São Zacarias 06,16,5.7,115.0,170.0,200.0,91.2,,True
+PE,038135,Ventos de São Zacarias 10,8,5.7,115.0,170.0,200.0,45.6,,False
+BA,038094,Ventos de Santa Inês 04,10,4.2,120.0,150.0,195.0,42.0,,False
+RN,034546,Morada Nova I,5,5.5,125.0,158.0,204.0,27.5,,False
+BA,038101,Ventos de Santa Inês 11,10,4.2,120.0,150.0,195.0,42.0,,False
+BA,038099,Ventos de Santa Inês 09,10,4.2,120.0,150.0,195.0,42.0,,False
+BA,038100,Ventos de Santa Inês 10,10,4.2,120.0,150.0,195.0,42.0,,False
+BA,038098,Ventos de Santa Inês 08,10,4.2,120.0,150.0,195.0,42.0,,False
+BA,038095,Ventos de Santa Inês 05,10,4.2,120.0,150.0,195.0,42.0,,False
+BA,038097,Ventos de Santa Inês 07,10,4.2,120.0,150.0,195.0,42.0,,False
+BA,038096,Ventos de Santa Inês 06,10,4.2,120.0,150.0,195.0,42.0,,False
+BA,048901,Serra da Gameleira IV,6,6.2,115.0,170.0,200.0,37.2,,False
+BA,048898,Serra da Gameleira I,7,6.2,115.0,170.0,200.0,43.4,,False
+BA,048900,Serra da Gameleira III,5,6.2,115.0,170.0,200.0,31.0,,False
+BA,048899,Serra da Gameleira II,7,6.2,115.0,170.0,200.0,43.4,,False
+BA,051572,Serra da Gameleira IX,7,6.2,115.0,107.0,168.0,43.4,,False
+MG,056672,Juramento 5,8,6.0,115.0,170.0,200.0,48.0,,False
+MG,056674,Juramento 7,8,6.0,115.0,170.0,200.0,48.0,,False
+MG,056671,Juramento 4,8,6.0,115.0,170.0,200.0,48.0,,False
+MG,056667,Juramento 2,8,6.0,115.0,170.0,200.0,48.0,,False
+MG,056668,Juramento 3,8,6.0,115.0,170.0,200.0,48.0,,False
+BA,048902,Serra da Gameleira VII,7,6.2,115.0,170.0,200.0,43.4,,False
+BA,049028,Serra da Gameleira V,5,6.2,115.0,170.0,200.0,31.0,,False
+BA,049285,Serra da Gameleira VIII,7,6.2,115.0,170.0,200.0,43.4,,False
+BA,048903,Serra da Gameleira XI,7,6.2,115.0,170.0,200.0,43.4,,False
+BA,049029,Serra da Gameleira VI,5,6.2,115.0,170.0,200.0,31.0,,False
+BA,049030,Serra da Gameleira X,7,6.2,115.0,170.0,200.0,43.4,,False
+BA,050072,Ventos de Santa Dulce 12,14,6.2,115.0,170.0,200.0,86.8,,False
+BA,050071,Ventos de Santa Dulce 11,14,6.2,115.0,170.0,200.0,86.8,,False
+BA,050070,Ventos de Santa Dulce 10,14,6.2,115.0,170.0,200.0,86.8,,False
+PI,047195,Ventos de Santa Rosa 13,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047192,Ventos de Santa Rosa 10,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047191,Ventos de Santa Rosa 09,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047194,Ventos de Santa Rosa 12,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047190,Ventos de Santa Rosa 08,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047193,Ventos de Santa Rosa 11,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,049468,Ventos de Santa Rosa 06,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047189,Ventos de Santa Rosa 07,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047184,Ventos de Santa Rosa 01,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047186,Ventos de Santa Rosa 03,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047187,Ventos de Santa Rosa 04,12,4.2,120.0,150.0,195.0,50.4,,False
+MG,056675,Juramento 8,8,6.0,115.0,170.0,200.0,48.0,,False
+MG,056666,Juramento 1,8,6.0,115.0,170.0,200.0,48.0,,False
+BA,050029,Ventos de São Carlos 01,13,4.2,105.0,150.0,180.0,54.6,,False
+BA,050030,Ventos de São Carlos 02,11,4.2,105.0,150.0,180.0,46.2,,False
+BA,050031,Ventos de São Carlos 03,10,4.2,105.0,150.0,180.0,42.0,,False
+BA,050032,Ventos de São Carlos 04,12,4.2,105.0,150.0,180.0,50.4,,False
+BA,050033,Ventos de São Carlos 05,13,4.2,105.0,150.0,180.0,54.6,,False
+BA,050034,Ventos de São Carlos 06,12,4.2,105.0,150.0,180.0,50.4,,False
+BA,057982,Ventos de São Carlos 10,13,4.2,105.0,150.0,180.0,54.6,,False
+BA,057985,Ventos de São Carlos 11,10,4.2,105.0,150.0,180.0,42.0,,False
+BA,057983,Ventos de São Carlos 09,12,4.2,105.0,150.0,180.0,50.4,,False
+BA,050036,Ventos de São Carlos 08,12,4.2,105.0,150.0,180.0,50.4,,False
+BA,057984,Ventos de São Carlos 12,10,4.2,105.0,150.0,180.0,42.0,,False
+PI,047196,Ventos de Santa Rosa 14,12,4.2,120.0,150.0,195.0,50.4,,False
+PI,047197,Ventos de Santa Rosa 15,12,4.2,120.0,150.0,195.0,50.4,,False
+PB,056621,Serra do Alagamar X,5,6.2,115.0,170.0,200.0,31.0,,False
+PB,056622,Serra do Alagamar XI,5,6.2,115.0,170.0,200.0,31.0,,False
+PB,056620,Serra do Alagamar IX,5,6.2,115.0,170.0,200.0,31.0,,False
+PB,056618,Serra do Alagamar IV,4,6.2,115.0,170.0,200.0,24.8,,False
+PB,056625,Serra do Alagamar XIV,4,6.2,115.0,170.0,200.0,24.8,,False
+PB,056624,Serra do Alagamar XIII,4,6.2,115.0,170.0,200.0,24.8,,False
+PB,056623,Serra do Alagamar XII,7,6.2,115.0,170.0,200.0,43.4,,False
+BA,057142,Ventos de São Vitorino VI,9,5.7,120.0,163.0,202.0,51.3,,False
+BA,034428,Parque Eólico Umbuzeiro-Muquim,15,3.0,,97.0,126.0,45.0,,False
+BA,073686,Parque Eólico Maravilha V,5,3.1,,170.0,200.0,15.5,,False
+BA,073684,Parque Eólico Maravilha III,5,6.2,,170.0,200.0,31.0,,False
+BA,073683,Parque Eólico Maravilha II,5,6.2,,170.0,200.0,31.0,,False
+BA,073685,Parque Eólico Maravilha IV,5,6.2,,170.0,200.0,31.0,,False
+BA,034427,Parque Eólico Mandacaru,14,2.0,,97.0,126.0,28.0,,False
+BA,034429,Parque Eólico Boa Esperança,30,3.0,,97.0,126.0,90.0,,False
+PI,038130,Ventos de São Zacarias 05,8,5.7,120.0,163.0,200.0,45.6,,False
+PI,038132,Ventos de São Zacarias 07,8,5.7,120.0,163.0,200.0,45.6,,False
+PI,038126,Ventos de São Zacarias 01,8,5.7,120.0,163.0,200.0,45.6,,False
+PI,038127,Ventos de São Zacarias 02,8,5.7,120.0,163.0,200.0,45.6,,False
+PI,038129,Ventos de São Zacarias 04,8,5.7,120.0,163.0,200.0,45.6,,False
+PI,038133,Ventos de São Zacarias 08,8,5.7,120.0,163.0,200.0,45.6,,False
+BA,034430,Parque Eólico Alecrim,15,3.0,78.0,97.0,126.0,45.0,,False
+BA,050035,Ventos de São Carlos 07,12,4.2,105.0,150.0,180.0,50.4,,False
+BA,051588,Ventos de Santa Luzia 14,12,6.0,115.0,170.0,200.0,72.0,,False
+BA,051589,Ventos de Santa Luzia 15,12,6.0,115.0,170.0,200.0,72.0,,False
+PB,050017,Ventos de São Rafael 11,29,4.2,105.0,150.0,180.0,126.0,Construção não iniciada,True
+PB,044990,Serra da Borborema III,3,5.9,120.0,163.0,202.0,17.7,Construção,False
+PB,044991,Serra da Borborema IV,4,5.9,120.0,163.0,202.0,23.6,Construção,False
+PE,049353,Serra das Vacas A,8,5.8,101.0,158.0,180.0,46.4,,False
